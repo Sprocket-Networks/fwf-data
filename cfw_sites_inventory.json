@@ -1,0 +1,1418 @@
+[
+  {
+    "phase_id": "P00",
+    "sub_id": "NEW CITY HALL",
+    "kmz_name": "P00CP01LA01 (New City Hall) (1496 FT)",
+    "planned_ft": 0,
+    "lat": 32.75501156206985,
+    "lng": -97.33941304819169
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "OLD CITY HALL",
+    "kmz_name": "P00CP01LA02 (Old City Hall) (6967FT)",
+    "planned_ft": 0,
+    "lat": 32.75340988781475,
+    "lng": -97.34221596451711
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "TOWER",
+    "kmz_name": "P00CP01LA03 (Tower - Burnett) (1150FT)",
+    "planned_ft": 0,
+    "lat": 32.74886759966891,
+    "lng": -97.33633187024964
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "TPW",
+    "kmz_name": "P00CP01LA04 (TPW - Architectural Services)  (701FT)",
+    "planned_ft": 0,
+    "lat": 32.74888627429857,
+    "lng": -97.33289194523091
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "SOUTH HOLLY ADMIN BUILDING",
+    "kmz_name": "P00CP02LA01 (South Holly Admin Building) (5477FT)",
+    "planned_ft": 0,
+    "lat": 32.74900299606531,
+    "lng": -97.34150451143192
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "IT",
+    "kmz_name": "P00CP02LA02 (IT - Telecommunications) (343FT)",
+    "planned_ft": 0,
+    "lat": 32.74371950069228,
+    "lng": -97.34660955289475
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "OLD CITY HALL",
+    "kmz_name": "P00CP03LA01 (Old City Hall) (2033 FT)",
+    "planned_ft": 0,
+    "lat": 32.74980132997273,
+    "lng": -97.33052759678476
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "PD",
+    "kmz_name": "P00CP03LA02 (PD - Central Division) (3167 FT)",
+    "planned_ft": 0,
+    "lat": 32.75551839295114,
+    "lng": -97.32857449758008
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "FIRE STATION 01",
+    "kmz_name": "P00CP03LA03 (Fire Station 01) (3694 FT)",
+    "planned_ft": 0,
+    "lat": 32.75499306541287,
+    "lng": -97.33942688303418
+  },
+  {
+    "phase_id": "P00",
+    "sub_id": "CENTRAL LIBRARY",
+    "kmz_name": "P00CP03LA04 (Central Library) (3694 FT)",
+    "planned_ft": 0,
+    "lat": 32.75341090759248,
+    "lng": -97.33352962332089
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION #30",
+    "kmz_name": "P01CP01LA01 (FIRE STATION #30 - 10637FT)",
+    "planned_ft": 10637,
+    "lat": 32.73386909345853,
+    "lng": -97.44062911196252
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - CACU",
+    "kmz_name": "P01CP01LA02 (PD - CACU - 424FT)",
+    "planned_ft": 424,
+    "lat": 32.71901320154416,
+    "lng": -97.4429132266739
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - RD EVANS CC",
+    "kmz_name": "P01CP01LA03 (PARD - RD EVANS CC - 3281FT)",
+    "planned_ft": 3281,
+    "lat": 32.72197773196868,
+    "lng": -97.43948384969578
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - WEST DIVISION",
+    "kmz_name": "P01CP01LA04 (PD - WEST DIVISION - 1385FT)",
+    "planned_ft": 1385,
+    "lat": 32.72209719413308,
+    "lng": -97.44091493802489
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "MEDSTAR MOBILE HEALTHCARE",
+    "kmz_name": "P01CP01LA05 (MEDSTAR MOBILE HEALTHCARE - 428FT)",
+    "planned_ft": 428,
+    "lat": 32.73214645607619,
+    "lng": -97.4419222653579
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - WEST DISTRICT/Z BOAZ",
+    "kmz_name": "P01CP01LA06 (PARD - WEST DISTRICT/Z BOAZ - 1426FT)",
+    "planned_ft": 1426,
+    "lat": 32.7304038639023,
+    "lng": -97.43941736895447
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "LVT RISE CC",
+    "kmz_name": "P01CP01LA07 (LVT RISE CC - 340FT)",
+    "planned_ft": 340,
+    "lat": 32.73431440202704,
+    "lng": -97.45778919918163
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WATER RIDGLEA TOWER",
+    "kmz_name": "P01CP01LA08 (WATER RIDGLEA TOWER - 220FT)",
+    "planned_ft": 220,
+    "lat": 32.73415492959629,
+    "lng": -97.43045035759194
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - COMO CC",
+    "kmz_name": "P01CP02LA01 (PARD - COMO CC - 5991FT)",
+    "planned_ft": 5991,
+    "lat": 32.72940265103049,
+    "lng": -97.41343919088287
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION #16",
+    "kmz_name": "P01CP02LA02 (FIRE STATION #16 - 370FT)",
+    "planned_ft": 370,
+    "lat": 32.73110682324304,
+    "lng": -97.40936674980308
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WATER WESTSIDE PUMP STATION",
+    "kmz_name": "P01CP02LA03 (WATER WESTSIDE PUMP STATION - 346FT)",
+    "planned_ft": 346,
+    "lat": 32.71991327824753,
+    "lng": -97.41350295898586
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "LIBRARY - RIDGLEA",
+    "kmz_name": "P01CP02LA04 (LIBRARY - RIDGLEA- 841FT)",
+    "planned_ft": 841,
+    "lat": 32.72664203343014,
+    "lng": -97.41987016744116
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WILL ROGERS MEMORIAL CENTER",
+    "kmz_name": "P01CP04LA01 (WILL ROGERS MEMORIAL CENTER - 531FT)",
+    "planned_ft": 531,
+    "lat": 32.7475567462142,
+    "lng": -97.36653982651241
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION #18",
+    "kmz_name": "P01CP04LA02 (FIRE STATION #18 - 113FT)",
+    "planned_ft": 113,
+    "lat": 32.7412117871863,
+    "lng": -97.38518216339094
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - THOMAS PLACE CC",
+    "kmz_name": "P01CP04LA03 (PARD - THOMAS PLACE CC - 267FT)",
+    "planned_ft": 267,
+    "lat": 32.74128139861885,
+    "lng": -97.37923546485236
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "11830FT",
+    "kmz_name": "P01CP05LA08 (11830FT)",
+    "planned_ft": 0,
+    "lat": 32.7475164990531,
+    "lng": -97.36176004680088
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - 7TH BIKE SF",
+    "kmz_name": "P01CP05LA01 (PD - 7TH BIKE SF - 429FT))",
+    "planned_ft": 429,
+    "lat": 32.75299100543239,
+    "lng": -97.36111186390119
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "FIRE STATION #23",
+    "kmz_name": "P02CP01LA01 (FIRE STATION #23 - 58FT)",
+    "planned_ft": 58,
+    "lat": 32.72724018114476,
+    "lng": -97.46928539681554
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "CAMP BOWIE LIBRARY SERVICE CENTER",
+    "kmz_name": "P02CP01LA02 (CAMP BOWIE LIBRARY SERVICE CENTER - 1511FT)",
+    "planned_ft": 1511,
+    "lat": 32.72457385351145,
+    "lng": -97.46904823841955
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "FIRE STATION #43",
+    "kmz_name": "P02CP02LA01 (FIRE STATION #43 - 22738FT)",
+    "planned_ft": 22738,
+    "lat": 32.72205642229299,
+    "lng": -97.50332705631219
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "TOWER - WESTLAND 6",
+    "kmz_name": "P02CP03LA01 (TOWER - WESTLAND 6 - 50FT)",
+    "planned_ft": 50,
+    "lat": 32.73162402594821,
+    "lng": -97.5070787453718
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "WATER - WESTLAND TREATMENT",
+    "kmz_name": "P02CP03LA02 (WATER - WESTLAND TREATMENT - 2245FT)",
+    "planned_ft": 2245,
+    "lat": 32.74336739341432,
+    "lng": -97.53072445461915
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "WATER TOWER",
+    "kmz_name": "P02CP03LA03 (WATER TOWER - 4712FT)",
+    "planned_ft": 4712,
+    "lat": 32.74961315373901,
+    "lng": -97.50805134923237
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "FIRE STATION #32",
+    "kmz_name": "P02CP03LA04 (FIRE STATION #32 - 421FT)",
+    "planned_ft": 421,
+    "lat": 32.75929222537444,
+    "lng": -97.49995314411247
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "CLIFFORD LIBRARY",
+    "kmz_name": "P02CP03LA05 (CLIFFORD LIBRARY - 468FT)",
+    "planned_ft": 468,
+    "lat": 32.76582659799428,
+    "lng": -97.47981343086236
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "SOUTH HOLLY ADMIN BUILDING",
+    "kmz_name": "P03CP01LA01 (SOUTH HOLLY ADMIN BUILDING - 41FT)",
+    "planned_ft": 41,
+    "lat": 32.74262368922356,
+    "lng": -97.34662957915828
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PARD - FOREST PARK POOL",
+    "kmz_name": "P03CP02LA01 (PARD - FOREST PARK POOL - 250FT)",
+    "planned_ft": 250,
+    "lat": 32.71986570404634,
+    "lng": -97.35280512015252
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PARD - LOG CABIN VILLAGE",
+    "kmz_name": "P03CP02LA02 (PARD - LOG CABIN VILLAGE - 249FT)",
+    "planned_ft": 249,
+    "lat": 32.72006753405539,
+    "lng": -97.36192133912368
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "FIRE STATION #8",
+    "kmz_name": "P03CP02LA03 (FIRE STATION #8 - 246FT)",
+    "planned_ft": 246,
+    "lat": 32.73281973983973,
+    "lng": -97.34687810699204
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PARD - FIRE STATION CC",
+    "kmz_name": "P03CP02LA04 (PARD - FIRE STATION CC - 2633FT)",
+    "planned_ft": 2633,
+    "lat": 32.73296653512987,
+    "lng": -97.33178686714601
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PD - NPD #2",
+    "kmz_name": "P03CP02LA05 (PD - NPD #2 - 148FT)",
+    "planned_ft": 148,
+    "lat": 32.73073750530511,
+    "lng": -97.33169689307583
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PD - ONE SAFE PLACE",
+    "kmz_name": "P03CP02LA06 (PD - ONE SAFE PLACE - 146FT)",
+    "planned_ft": 146,
+    "lat": 32.73222685223292,
+    "lng": -97.3321827332478
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "FIRE STATION #21",
+    "kmz_name": "P03CP03LA01 (FIRE STATION #21 - 68FT)",
+    "planned_ft": 68,
+    "lat": 32.69632719104113,
+    "lng": -97.36730552948018
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PD - NPO LANCASTER",
+    "kmz_name": "P04CP01LA01 (PD - NPO LANCASTER - 302FT)",
+    "planned_ft": 302,
+    "lat": 32.74642669726155,
+    "lng": -97.31277032468111
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "CODE - HAZEL HARVEY PEACE CENTER FOR NEIGHBORHOODS",
+    "kmz_name": "P04CP01LA02 (CODE - HAZEL HARVEY PEACE CENTER FOR NEIGHBORHOODS - 68FT)",
+    "planned_ft": 68,
+    "lat": 32.73585668186009,
+    "lng": -97.31919182206768
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "LIBRARY - SHAMBLEE",
+    "kmz_name": "P04CP01LA03 (LIBRARY - SHAMBLEE - 140FT)",
+    "planned_ft": 140,
+    "lat": 32.73341107122263,
+    "lng": -97.31906750498895
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PARD - SYCAMORE PARK MAINTENANCE CENTER",
+    "kmz_name": "P04CP02LA01 (PARD - SYCAMORE PARK MAINTENANCE CENTER - 3048FT)",
+    "planned_ft": 3048,
+    "lat": 32.73591250693498,
+    "lng": -97.28945422898961
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "FIRE STATION #5",
+    "kmz_name": "P04CP02LA02 (FIRE STATION #5 - 631FT)",
+    "planned_ft": 631,
+    "lat": 32.73249437369126,
+    "lng": -97.3190000051707
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PARD - SOUTHSIDE CC",
+    "kmz_name": "P04CP02LA03 (PARD - SOUTHSIDE CC - 190FT)",
+    "planned_ft": 190,
+    "lat": 32.73234329825325,
+    "lng": -97.31576174623633
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PARD - ATATIANA CARR-JEFFERSON CC AT HILLSIDE",
+    "kmz_name": "P04CP02LA04 (PARD - ATATIANA CARR-JEFFERSON CC AT HILLSIDE - 327FT)",
+    "planned_ft": 327,
+    "lat": 32.72805706073087,
+    "lng": -97.31203170364081
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PARD - EAST DISTRICT SERVICE CENTER",
+    "kmz_name": "P04CP02LA05 (PARD - EAST DISTRICT SERVICE CENTER - 497FT)",
+    "planned_ft": 497,
+    "lat": 32.7266892624077,
+    "lng": -97.29335717528471
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "WATER SYCAMORE PUMP",
+    "kmz_name": "P04CP02LA06 (WATER SYCAMORE PUMP - 527FT)",
+    "planned_ft": 527,
+    "lat": 32.73459433748745,
+    "lng": -97.29096493521423
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PARD - SYCAMORE CC",
+    "kmz_name": "P04CP02LA07 (PARD - SYCAMORE CC - 235FT)",
+    "planned_ft": 235,
+    "lat": 32.73111715653867,
+    "lng": -97.29007347758719
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PD - TRAFFIC/NPD #6",
+    "kmz_name": "P04CP02LA08 (PD - TRAFFIC/NPD #6 - 2031FT)",
+    "planned_ft": 2031,
+    "lat": 32.73088131603441,
+    "lng": -97.28956017405254
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "FIRE STATION #14",
+    "kmz_name": "P04CP03LA01 (FIRE STATION #14 - 474FT)",
+    "planned_ft": 474,
+    "lat": 32.74274317379359,
+    "lng": -97.28567231252082
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PD - CRIME LAB AND PROPERTY ROOM FACILITY",
+    "kmz_name": "P04CP03LA02 (PD - CRIME LAB AND PROPERTY ROOM FACILITY - 380FT)",
+    "planned_ft": 380,
+    "lat": 32.74074321383175,
+    "lng": -97.27089810779113
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "LIBRARY - REBY CARY YOUTH",
+    "kmz_name": "P04CP03LA03 (LIBRARY - REBY CARY YOUTH - 130FT)",
+    "planned_ft": 130,
+    "lat": 32.74112278822022,
+    "lng": -97.26788317454836
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PD - KXAS/SOD; TOWER - BARNETT/KXAS",
+    "kmz_name": "P04CP03LA04 (PD - KXAS/SOD; TOWER - BARNETT/KXAS - 1163FT)",
+    "planned_ft": 1163,
+    "lat": 32.7493481349911,
+    "lng": -97.26147447159246
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "GUINN SCHOOL",
+    "kmz_name": "P04CP05LA01 (GUINN SCHOOL - 382FT)",
+    "planned_ft": 382,
+    "lat": 32.73209336975025,
+    "lng": -97.32106092477174
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "LIBRARY - MEADOWBROOK",
+    "kmz_name": "P05CP01LA01 (LIBRARY - MEADOWBROOK - 640FT)",
+    "planned_ft": 640,
+    "lat": 32.73787366705849,
+    "lng": -97.23240731634746
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION #24",
+    "kmz_name": "P05CP01LA02 (FIRE STATION #24 - 5967FT)",
+    "planned_ft": 5967,
+    "lat": 32.73765514308555,
+    "lng": -97.2338977545777
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "MLK COMMUNITY CENTER AND POOL",
+    "kmz_name": "P05CP01LA03 (MLK COMMUNITY CENTER AND POOL - 58FT)",
+    "planned_ft": 58,
+    "lat": 32.72969652470323,
+    "lng": -97.24412623322604
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - HANDLEY MEADOWBROOK CC",
+    "kmz_name": "P05CP01LA04 (PARD - HANDLEY MEADOWBROOK CC - 923FT)",
+    "planned_ft": 923,
+    "lat": 32.73772580024232,
+    "lng": -97.2212853963591
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PD - EAST DIVISION",
+    "kmz_name": "P05CP01LA05 (PD - EAST DIVISION - 142FT)",
+    "planned_ft": 142,
+    "lat": 32.73765419513698,
+    "lng": -97.23389229153213
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION #3",
+    "kmz_name": "P05CP01LA06 (FIRE STATION #3 - 1969FT)",
+    "planned_ft": 1969,
+    "lat": 32.72124368707939,
+    "lng": -97.24825075993058
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "CODE - CHUCK SILCOX ANIMAL CARE AND CONTROL CENTER",
+    "kmz_name": "P05CP02LA01 (CODE - CHUCK SILCOX ANIMAL CARE AND CONTROL CENTER - 1441FT)",
+    "planned_ft": 1441,
+    "lat": 32.69194659114419,
+    "lng": -97.25070911638655
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - EUGENE MCCRAY CC",
+    "kmz_name": "P05CP02LA02 (PARD - EUGENE MCCRAY CC - 142FT)",
+    "planned_ft": 142,
+    "lat": 32.6988222736563,
+    "lng": -97.24894642289297
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "SE SERVICE CENTER",
+    "kmz_name": "P05CP02LA03 (SE SERVICE CENTER - 469FT)",
+    "planned_ft": 469,
+    "lat": 32.6927163186635,
+    "lng": -97.2506855866175
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "WATER TOWER",
+    "kmz_name": "P05CP02LA04 (WATER TOWER - 4806FT)",
+    "planned_ft": 4806,
+    "lat": 32.71163276859883,
+    "lng": -97.24830793816895
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION #22",
+    "kmz_name": "P05CP02LA05 (FIRE STATION #22 - 1053FT)",
+    "planned_ft": 1053,
+    "lat": 32.69881933594393,
+    "lng": -97.24838507469333
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "LIBRARY - EAST BERRY",
+    "kmz_name": "P05CP02LA06 (LIBRARY - EAST BERRY - 82FT)",
+    "planned_ft": 82,
+    "lat": 32.71337738623707,
+    "lng": -97.25925040383419
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "SE DROPOFF CENTER",
+    "kmz_name": "P05CP02LA07 (SE DROPOFF CENTER - 1505FT)",
+    "planned_ft": 1505,
+    "lat": 32.69249903644869,
+    "lng": -97.24550209585004
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - BRADLEY CENTER CC",
+    "kmz_name": "P05CP03LA01 (PARD - BRADLEY CENTER CC - 4392FT)",
+    "planned_ft": 4392,
+    "lat": 32.69212974038376,
+    "lng": -97.28036626459216
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - TEXAS A&AMP;M FOREST SERVICE",
+    "kmz_name": "P05CP04LA01 (PARD - TEXAS A&amp;M FOREST SERVICE - 3149FT)",
+    "planned_ft": 3149,
+    "lat": 32.6720980745849,
+    "lng": -97.28574334739022
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - WORTH HEIGHTS CC",
+    "kmz_name": "P06CP01LA01 (PARD - WORTH HEIGHTS CC - 2186FT)",
+    "planned_ft": 2186,
+    "lat": 32.69858436979294,
+    "lng": -97.32042866002033
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "FIRE STATION #4",
+    "kmz_name": "P06CP01LA02 (FIRE STATION #4 - 5189FT)",
+    "planned_ft": 5189,
+    "lat": 32.70590727857441,
+    "lng": -97.31271292745102
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "FIRE STATION #10",
+    "kmz_name": "P06CP02LA01 (FIRE STATION #10 - 1850FT)",
+    "planned_ft": 1850,
+    "lat": 32.69885919443198,
+    "lng": -97.3316006896429
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - VICTORY FOREST CC",
+    "kmz_name": "P06CP02LA02 (PARD - VICTORY FOREST CC - 445FT)",
+    "planned_ft": 445,
+    "lat": 32.69931588248033,
+    "lng": -97.33161342321289
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "LIBRARY - HISTORY CENTER",
+    "kmz_name": "P06CP02LA03 (LIBRARY - HISTORY CENTER - 2841FT)",
+    "planned_ft": 2841,
+    "lat": 32.68850513883755,
+    "lng": -97.33171057556623
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - MCCLELAND TENNIS AND PICKLEBALL CENTER",
+    "kmz_name": "P06CP02LA04 (PARD - MCCLELAND TENNIS AND PICKLEBALL CENTER- 4196FT)",
+    "planned_ft": 4196,
+    "lat": 32.68851047904756,
+    "lng": -97.33172356315228
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - GREENBRIER CC",
+    "kmz_name": "P06CP02LA05 (PARD - GREENBRIER CC - 1541FT)",
+    "planned_ft": 1541,
+    "lat": 32.66933800462268,
+    "lng": -97.33669412134397
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PD - BOB BOLEN TRAINING CENTER",
+    "kmz_name": "P06CP02LA06 (PD - BOB BOLEN TRAINING CENTER - 1468FT)",
+    "planned_ft": 1468,
+    "lat": 32.67159336207909,
+    "lng": -97.33191694521543
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PD BAITCAR",
+    "kmz_name": "P06CP02LA07 (PD BAITCAR - 2839FT)",
+    "planned_ft": 2839,
+    "lat": 32.67805870945718,
+    "lng": -97.33185217802745
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "JAMES AVE SERVICE CENTER",
+    "kmz_name": "P06CP03LA01 (JAMES AVE SERVICE CENTER - 2294FT)",
+    "planned_ft": 2294,
+    "lat": 32.66724677413978,
+    "lng": -97.34495158774561
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - SOUTH SERVICE CENTER",
+    "kmz_name": "P06CP03LA02 (PARD - SOUTH SERVICE CENTER- 1190FT)",
+    "planned_ft": 1190,
+    "lat": 32.67037637850167,
+    "lng": -97.34500214432985
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "SPINKS AIRPORT",
+    "kmz_name": "P06CP04LA01 (SPINKS AIRPORT - 34893FT)",
+    "planned_ft": 34893,
+    "lat": 32.65331927033031,
+    "lng": -97.32078862080262
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "FIRE STATION #28",
+    "kmz_name": "P06CP04LA02 (FIRE STATION #28 - 3617FT)",
+    "planned_ft": 3617,
+    "lat": 32.62769921428422,
+    "lng": -97.32111978520544
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "WATER TANK",
+    "kmz_name": "P06CP04LA03 (WATER TANK - 6315FT)",
+    "planned_ft": 6315,
+    "lat": 32.58303764093677,
+    "lng": -97.31920586945215
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD - HIGHLAND HILLS CC",
+    "kmz_name": "P06CP04LA04 (PARD - HIGHLAND HILLS CC - 3944FT)",
+    "planned_ft": 3944,
+    "lat": 32.65632751290784,
+    "lng": -97.30238617544589
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "ENVIRO SOUTHSIDE DROPOFF",
+    "kmz_name": "P06CP04LA05 (ENVIRO SOUTHSIDE DROPOFF - 1998FT)",
+    "planned_ft": 1998,
+    "lat": 32.65328226762472,
+    "lng": -97.32303219329141
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "FIRE STATION #42",
+    "kmz_name": "P06CP04LA06 (FIRE STATION #42 - 2694FT)",
+    "planned_ft": 2694,
+    "lat": 32.57771161778565,
+    "lng": -97.31741881270031
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "FIRE STATION #29",
+    "kmz_name": "P07CP01LA01 (FIRE STATION #29 - 612FT)",
+    "planned_ft": 612,
+    "lat": 32.64945692393424,
+    "lng": -97.3605592250306
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "WATER TANK",
+    "kmz_name": "P07CP01LA02 (WATER TANK - 6400FT)",
+    "planned_ft": 6400,
+    "lat": 32.64974919632564,
+    "lng": -97.3674255101083
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "PARD - SOUTHWEST CC",
+    "kmz_name": "P07CP01LA03 (PARD - SOUTHWEST CC - 643FT)",
+    "planned_ft": 643,
+    "lat": 32.65150066892966,
+    "lng": -97.38289590218771
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "WATER MCCART PUNK/TANK",
+    "kmz_name": "P07CP01LA04 (WATER MCCART PUNK/TANK - 965FT)",
+    "planned_ft": 965,
+    "lat": 32.61505878959588,
+    "lng": -97.37185844403416
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "LIBRARY - VIVIAN J. LINCOLN",
+    "kmz_name": "P07CP01LA05 (LIBRARY - VIVIAN J. LINCOLN - 68FT)",
+    "planned_ft": 68,
+    "lat": 32.61396820745785,
+    "lng": -97.37155748693594
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "PD - SOUTH DIVISION PATROL",
+    "kmz_name": "P07CP01LA06 (PD - SOUTH DIVISION PATROL - 358FT)",
+    "planned_ft": 358,
+    "lat": 32.61438954344084,
+    "lng": -97.3731180024268
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "WATER TOWER",
+    "kmz_name": "P07CP02LA01 (WATER TOWER - 12621FT)",
+    "planned_ft": 12621,
+    "lat": 32.60596583018317,
+    "lng": -97.40127948831525
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "PARD - CHISHOLM TRAIL CC",
+    "kmz_name": "P07CP02LA02 (PARD - CHISHOLM TRAIL CC - 7764FT)",
+    "planned_ft": 7764,
+    "lat": 32.61736967113426,
+    "lng": -97.38867532404043
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "PARD - PECAN VALLEY GOLF/ PARD - PECAN VALLEY MAINTENANCE",
+    "kmz_name": "P07CP03LA01 (PARD - PECAN VALLEY GOLF/ PARD - PECAN VALLEY MAINTENANCE - 17613FT)",
+    "planned_ft": 17613,
+    "lat": 32.6438233649468,
+    "lng": -97.40961731275011
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "FIRE STATION #39",
+    "kmz_name": "P07CP03LA02 (FIRE STATION #39 - 7689FT)",
+    "planned_ft": 7689,
+    "lat": 32.64570926963419,
+    "lng": -97.41942382043925
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "BOLT TOWER/ 911 COMMUNICATIONS",
+    "kmz_name": "P08CP01LA01 (BOLT TOWER/ 911 COMMUNICATIONS - 250FT)",
+    "planned_ft": 250,
+    "lat": 32.68938936976551,
+    "lng": -97.3603733689353
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "WATER SEMINARY HILL TANK",
+    "kmz_name": "P08CP01LA02 (WATER SEMINARY HILL TANK - 3247FT)",
+    "planned_ft": 3247,
+    "lat": 32.68928928224263,
+    "lng": -97.35618149976882
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "WATER TANK",
+    "kmz_name": "P08CP01LA03 (WATER TANK - 8285FT)",
+    "planned_ft": 8285,
+    "lat": 32.68951741868221,
+    "lng": -97.36822419991016
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "SW MUNICIPAL COURT",
+    "kmz_name": "P08CP02LA01 (SW MUNICIPAL COURT - 332FT)",
+    "planned_ft": 332,
+    "lat": 32.67223141420158,
+    "lng": -97.37532975566172
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "WATER RUSSON PUMP STATION",
+    "kmz_name": "P08CP02LA02 (WATER RUSSON PUMP STATION - 291FT)",
+    "planned_ft": 291,
+    "lat": 32.6726914536716,
+    "lng": -97.37678768896194
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "CODE - PETSMART ADOPTION/HULEN",
+    "kmz_name": "P08CP02LA03 (CODE - PETSMART ADOPTION/HULEN - 1413FT)",
+    "planned_ft": 1413,
+    "lat": 32.68536148151236,
+    "lng": -97.39246991209902
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "LIBARY - WEDGWOOD",
+    "kmz_name": "P08CP02LA04 (LIBARY - WEDGWOOD - 2805FT)",
+    "planned_ft": 2805,
+    "lat": 32.67459079852301,
+    "lng": -97.38132672962587
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "LIBRARY - SOUTHWEST REGIONAL",
+    "kmz_name": "P08CP02LA05 (LIBRARY - SOUTHWEST REGIONAL - 7353FT)",
+    "planned_ft": 7353,
+    "lat": 32.67570419021592,
+    "lng": -97.38102942041596
+  },
+  {
+    "phase_id": "P08",
+    "sub_id": "FIRE STATION #26",
+    "kmz_name": "P08CP02LA06 (FIRE STATION #26 - 4786FT)",
+    "planned_ft": 4786,
+    "lat": 32.68109074302595,
+    "lng": -97.39281235539902
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "PD - POLICE MOUNTED PATROL",
+    "kmz_name": "P09CP01LA01 (PD - POLICE MOUNTED PATROL - 6611FT)",
+    "planned_ft": 6611,
+    "lat": 32.77443130296625,
+    "lng": -97.47596683200229
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "MARSHAL LAKE PATROL",
+    "kmz_name": "P09CP02LA01 (MARSHAL LAKE PATROL - 9936FT)",
+    "planned_ft": 9936,
+    "lat": 32.82676956248961,
+    "lng": -97.4794017487153
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "PARD - NATURE CENTER HARDWICK",
+    "kmz_name": "P09CP03LA01 (PARD - NATURE CENTER HARDWICK- 9082FT)",
+    "planned_ft": 9082,
+    "lat": 32.82673394944027,
+    "lng": -97.47943809018753
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "PARD - NATURE CENTER REFUGE",
+    "kmz_name": "P09CP03LA02 (PARD - NATURE CENTER REFUGE - 2585FT)",
+    "planned_ft": 2585,
+    "lat": 32.83009641456528,
+    "lng": -97.47975879790141
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "FIRE BOMB DISPOSAL",
+    "kmz_name": "P09CP03LA03 (FIRE BOMB DISPOSAL - 371FT)",
+    "planned_ft": 371,
+    "lat": 32.84309545053789,
+    "lng": -97.49418686747333
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "PARD - NATURE CENTER GATE",
+    "kmz_name": "P09CP03LA04 (PARD - NATURE CENTER GATE - 37FT)",
+    "planned_ft": 37,
+    "lat": 32.82868468126175,
+    "lng": -97.47942027890923
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "WATER - EAGLE MOUNTAIN PUMP",
+    "kmz_name": "P09CP04LA01 (WATER - EAGLE MOUNTAIN PUMP - 1825FT)",
+    "planned_ft": 1825,
+    "lat": 32.86501526081843,
+    "lng": -97.48591756730951
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "TARRANT REGIONAL WATER DISTRICT (TRWD",
+    "kmz_name": "P09CP04LA02 (TARRANT REGIONAL WATER DISTRICT (TRWD) EAGLE MOUNTAIN DAM - 8430FT)",
+    "planned_ft": 0,
+    "lat": 32.86874773177475,
+    "lng": -97.48579950362073
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "LIBRARY - NORTHWEST",
+    "kmz_name": "P10CP02LA01 (LIBRARY - NORTHWEST - 4796FT)",
+    "planned_ft": 4796,
+    "lat": 32.85234457603313,
+    "lng": -97.41757821998785
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "EAGLE MOUNTAIN WATER TREATMENT PLANT/DR SITE",
+    "kmz_name": "P10CP02LA02 (EAGLE MOUNTAIN WATER TREATMENT PLANT/DR SITE - 363FT)",
+    "planned_ft": 363,
+    "lat": 32.85969814581981,
+    "lng": -97.41868353157034
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "CASA RADAR",
+    "kmz_name": "P10CP02LA03 (CASA RADAR - 136FT)",
+    "planned_ft": 136,
+    "lat": 32.83858102844056,
+    "lng": -97.42568069116683
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "FIRE STATION #13",
+    "kmz_name": "P10CP02LA04 (FIRE STATION #13 - 68FT)",
+    "planned_ft": 68,
+    "lat": 32.83124605362217,
+    "lng": -97.42119864851995
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "WATER - LAKE WORTH OFFICE",
+    "kmz_name": "P11CP01LA01 (WATER - LAKE WORTH OFFICE - 11193FT)",
+    "planned_ft": 11193,
+    "lat": 32.80742406564367,
+    "lng": -97.41719391563839
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "WATER TANK/TOWER/PUMP",
+    "kmz_name": "P11CP02LA01 (WATER TANK/TOWER/PUMP - 132FT)",
+    "planned_ft": 132,
+    "lat": 32.80477578294254,
+    "lng": -97.38591130236303
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "FIRE STATION #15",
+    "kmz_name": "P11CP02LA02 (FIRE STATION #15 - 129FT)",
+    "planned_ft": 129,
+    "lat": 32.80298554852668,
+    "lng": -97.3837280554149
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "WATER NORTHSIDE PUMP",
+    "kmz_name": "P11CP03LA01 (WATER NORTHSIDE PUMP - 3233FT)",
+    "planned_ft": 3233,
+    "lat": 32.80132022346536,
+    "lng": -97.36803516398311
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "PARD - NORTH TRI-ETHNIC CC",
+    "kmz_name": "P11CP03LA02 (PARD - NORTH TRI-ETHNIC CC - 335FT)",
+    "planned_ft": 335,
+    "lat": 32.79816815015673,
+    "lng": -97.36834794707168
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "NW PD DIVISION",
+    "kmz_name": "P11CP03LA03 (NW PD DIVISION - 4651FT)",
+    "planned_ft": 4651,
+    "lat": 32.80492656646467,
+    "lng": -97.36530196193112
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "MEACHAM HANGAR",
+    "kmz_name": "P11CP03LA04 (MEACHAM HANGAR - 1213FT)",
+    "planned_ft": 1213,
+    "lat": 32.80832117480301,
+    "lng": -97.35261880447008
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "FIRE STATION #44",
+    "kmz_name": "P11CP03LA05 (FIRE STATION #44 - 193FT)",
+    "planned_ft": 193,
+    "lat": 32.81353124851508,
+    "lng": -97.35199430111464
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "FIRE STATION #44",
+    "kmz_name": "P11CP03LA06 (FIRE STATION #44 - 2218FT)",
+    "planned_ft": 2218,
+    "lat": 32.81271403323376,
+    "lng": -97.35250216598604
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "MEACHAM INTERNATIONAL AIRPORT",
+    "kmz_name": "P11CP03LA07 (MEACHAM INTERNATIONAL AIRPORT - 7073FT)",
+    "planned_ft": 7073,
+    "lat": 32.80469177914992,
+    "lng": -97.35275019781521
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "FIRE SCBA SHOP",
+    "kmz_name": "P11CP04LA01 (FIRE SCBA SHOP - 3625FT)",
+    "planned_ft": 3625,
+    "lat": 32.77034959604242,
+    "lng": -97.35479436599586
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "PARD - ROCKWOOD MAINTENANCE/ PARD - ROCKWOOD PARK GOLF COURSE",
+    "kmz_name": "P11CP04LA02 (PARD - ROCKWOOD MAINTENANCE/ PARD - ROCKWOOD PARK GOLF COURSE - 2987FT)",
+    "planned_ft": 2987,
+    "lat": 32.77734033193546,
+    "lng": -97.36144305712837
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "PD - NORTHWEST DIVISION",
+    "kmz_name": "P11CP04LA03 (PD - NORTHWEST DIVISION - 267FT)",
+    "planned_ft": 267,
+    "lat": 32.790070795773,
+    "lng": -97.35104592132184
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "FIRE STATION #12",
+    "kmz_name": "P11CP04LA04 (FIRE STATION #12 - 255FT)",
+    "planned_ft": 255,
+    "lat": 32.78450470491694,
+    "lng": -97.35039170611248
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "PARD - MARINE CREEK POOL",
+    "kmz_name": "P11CP04LA05 (PARD - MARINE CREEK POOL - 320FT)",
+    "planned_ft": 320,
+    "lat": 32.78105513544408,
+    "lng": -97.35045752455727
+  },
+  {
+    "phase_id": "P11",
+    "sub_id": "LIBRARY - NORTHSIDE",
+    "kmz_name": "P11CP04LA06 (LIBRARY - NORTHSIDE - 175FT)",
+    "planned_ft": 175,
+    "lat": 32.78084920144441,
+    "lng": -97.35626050563293
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "PARD - BRENNAN SERVICE CENTER",
+    "kmz_name": "P12CP02LA01 (PARD - BRENNAN SERVICE CENTER - 5067FT)",
+    "planned_ft": 5067,
+    "lat": 32.79219537141357,
+    "lng": -97.32307139823266
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "ESD - BRENNAN SERVICE CENTER/ AUTO POUND",
+    "kmz_name": "P12CP02LA02 (ESD - BRENNAN SERVICE CENTER/ AUTO POUND - 172FT)",
+    "planned_ft": 172,
+    "lat": 32.78839357193968,
+    "lng": -97.32756657827947
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "PARD - ANDREW DOC SESSION CC",
+    "kmz_name": "P12CP03LA01 (PARD - ANDREW DOC SESSION CC - 6672FT)",
+    "planned_ft": 6672,
+    "lat": 32.77696831080367,
+    "lng": -97.30158166397968
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "GATEWAY PARK",
+    "kmz_name": "P12CP03LA02 (GATEWAY PARK - 11866FT)",
+    "planned_ft": 11866,
+    "lat": 32.76806866042814,
+    "lng": -97.30171860518716
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "PARD - RIVERSIDE CC",
+    "kmz_name": "P12CP03LA03 (PARD - RIVERSIDE CC - 11909FT)",
+    "planned_ft": 11909,
+    "lat": 32.79504271222135,
+    "lng": -97.30846651540264
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "FIRE STATION #19",
+    "kmz_name": "P12CP03LA04 (FIRE STATION #19 - 185FT)",
+    "planned_ft": 185,
+    "lat": 32.78461432657095,
+    "lng": -97.30724429486446
+  },
+  {
+    "phase_id": "P12",
+    "sub_id": "LIBRARY - RIVERSIDE",
+    "kmz_name": "P12CP03LA05 (LIBRARY - RIVERSIDE - 120FT)",
+    "planned_ft": 120,
+    "lat": 32.78094931538207,
+    "lng": -97.30362067912198
+  },
+  {
+    "phase_id": "P14",
+    "sub_id": "FIRE STATION #27",
+    "kmz_name": "P14CP01LA01 (FIRE STATION #27 - 473FT)",
+    "planned_ft": 473,
+    "lat": 32.80240611504001,
+    "lng": -97.18271185384188
+  },
+  {
+    "phase_id": "P14",
+    "sub_id": "TOWER - BERGH #2",
+    "kmz_name": "P14CP01LA02 (TOWER - BERGH #2 -149FT)",
+    "planned_ft": 149,
+    "lat": 32.80806415858739,
+    "lng": -97.13089626282051
+  },
+  {
+    "phase_id": "P14",
+    "sub_id": "WATER TOWER",
+    "kmz_name": "P14CP02LA01 (WATER TOWER - 10812FT)",
+    "planned_ft": 10812,
+    "lat": 32.82194684099663,
+    "lng": -97.0620755608749
+  },
+  {
+    "phase_id": "P14",
+    "sub_id": "FIRE STATION #33",
+    "kmz_name": "P14CP02LA02 (FIRE STATION #33 - 1969FT)",
+    "planned_ft": 1969,
+    "lat": 32.82221085778604,
+    "lng": -97.05308112324532
+  },
+  {
+    "phase_id": "P15",
+    "sub_id": "WATER - VILLAGE CREEK",
+    "kmz_name": "P15CP01LA01 (WATER - VILLAGE CREEK - 1518FT)",
+    "planned_ft": 1518,
+    "lat": 32.77121850823762,
+    "lng": -97.14448214703312
+  },
+  {
+    "phase_id": "P16",
+    "sub_id": "FIRE STATION #20",
+    "kmz_name": "P16CP02LA01 (FIRE STATION #20 - 1485FT)",
+    "planned_ft": 1485,
+    "lat": 32.7612266537514,
+    "lng": -97.2399342064172
+  },
+  {
+    "phase_id": "P16",
+    "sub_id": "LIBRARY - EAST REGIONAL",
+    "kmz_name": "P16CP02LA02 (LIBRARY - EAST REGIONAL - 224FT)",
+    "planned_ft": 224,
+    "lat": 32.76075552490955,
+    "lng": -97.22402659684303
+  },
+  {
+    "phase_id": "P16",
+    "sub_id": "ENVIRONMENTAL COLLECTION CENTER",
+    "kmz_name": "P16CP02LA03 (ENVIRONMENTAL COLLECTION CENTER - 424FT)",
+    "planned_ft": 424,
+    "lat": 32.76307250432032,
+    "lng": -97.21983534609718
+  },
+  {
+    "phase_id": "P16",
+    "sub_id": "TOWER - BRIDGE",
+    "kmz_name": "P16CP02LA04 (TOWER - BRIDGE - 850FT)",
+    "planned_ft": 850,
+    "lat": 32.76232599945542,
+    "lng": -97.2206763653395
+  },
+  {
+    "phase_id": "P16",
+    "sub_id": "FIRE STATION #7",
+    "kmz_name": "P16CP02LA05 (FIRE STATION #7 - 182FT)",
+    "planned_ft": 182,
+    "lat": 32.76581682440514,
+    "lng": -97.19063408248309
+  },
+  {
+    "phase_id": "P17",
+    "sub_id": "WATER TANK",
+    "kmz_name": "P17CP03LA01 (WATER TANK - 742FT)",
+    "planned_ft": 742,
+    "lat": 32.92428068090869,
+    "lng": -97.33162124377091
+  },
+  {
+    "phase_id": "P17",
+    "sub_id": "PARD - NORTH SERVICE CENTER",
+    "kmz_name": "P17CP03LA02 (PARD - NORTH SERVICE CENTER - 1280FT)",
+    "planned_ft": 1280,
+    "lat": 32.92780330637198,
+    "lng": -97.35551106421386
+  },
+  {
+    "phase_id": "P17",
+    "sub_id": "BETSY PRICE CC",
+    "kmz_name": "P17CP03LA03 (BETSY PRICE CC- 13704FT)",
+    "planned_ft": 13704,
+    "lat": 32.90627856409078,
+    "lng": -97.33169554528939
+  },
+  {
+    "phase_id": "P17",
+    "sub_id": "FIRE STATION #45",
+    "kmz_name": "P17CP03LA04 (FIRE STATION #45- 25580FT)",
+    "planned_ft": 25580,
+    "lat": 32.92542451444379,
+    "lng": -97.39173206501519
+  },
+  {
+    "phase_id": "P17",
+    "sub_id": "FIRE STATION #41",
+    "kmz_name": "P17CP03LA05 (FIRE STATION #41 - 128FT)",
+    "planned_ft": 128,
+    "lat": 32.93612589160118,
+    "lng": -97.39170463050299
+  },
+  {
+    "phase_id": "P18",
+    "sub_id": "WATER TOWER",
+    "kmz_name": "P18CP01LA01 (WATER TOWER - 5805FT)",
+    "planned_ft": 5805,
+    "lat": 32.96901416195936,
+    "lng": -97.39151777694927
+  },
+  {
+    "phase_id": "P18",
+    "sub_id": "FIRE STATION #34",
+    "kmz_name": "P18CP02LA01 (FIRE STATION #34 - 6533FT)",
+    "planned_ft": 6533,
+    "lat": 32.96909933595348,
+    "lng": -97.38179170106834
+  },
+  {
+    "phase_id": "P18",
+    "sub_id": "FAR NORTHWEST LIBRARY",
+    "kmz_name": "P18CP02LA02 (FAR NORTHWEST LIBRARY - 463FT)",
+    "planned_ft": 463,
+    "lat": 32.96902864584614,
+    "lng": -97.38693227535056
+  },
+  {
+    "phase_id": "P19",
+    "sub_id": "PD - ALLIANCE",
+    "kmz_name": "P19CP01LA01 (PD - ALLIANCE - 14275FT)",
+    "planned_ft": 14275,
+    "lat": 33.00367443041303,
+    "lng": -97.31218370798439
+  },
+  {
+    "phase_id": "P19",
+    "sub_id": "FIRE STATION #35",
+    "kmz_name": "P19CP01LA02 (FIRE STATION #35- 5260FT)",
+    "planned_ft": 5260,
+    "lat": 32.9723696161829,
+    "lng": -97.31248561071166
+  },
+  {
+    "phase_id": "P19",
+    "sub_id": "TOWER ROANOKE",
+    "kmz_name": "P19CP02LA01 (TOWER ROANOKE- 18427FT)",
+    "planned_ft": 18427,
+    "lat": 33.00172558154681,
+    "lng": -97.29776005047322
+  },
+  {
+    "phase_id": "P19",
+    "sub_id": "FIRE STATION #11",
+    "kmz_name": "P19CP02LA02 (FIRE STATION #11- 9264FT)",
+    "planned_ft": 9264,
+    "lat": 33.0263692577925,
+    "lng": -97.29814020488345
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "MEDSTAR MOBILE HEALTHCARE - NORTH",
+    "kmz_name": "P20CP02LA01 (MEDSTAR MOBILE HEALTHCARE - NORTH - 4332FT)",
+    "planned_ft": 4332,
+    "lat": 32.89985074000451,
+    "lng": -97.30697796562507
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "PD - NORTH DIVISION",
+    "kmz_name": "P20CP02LA02 (PD - NORTH DIVISION - 5293FT)",
+    "planned_ft": 5293,
+    "lat": 32.91359838749895,
+    "lng": -97.3069040760592
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "FIRE STATION #37",
+    "kmz_name": "P20CP02LA03 (FIRE STATION #37 -2740FT)",
+    "planned_ft": 2740,
+    "lat": 32.93035528910576,
+    "lng": -97.28149047679018
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "LIBRARY - GOLDEN TRIANGLE",
+    "kmz_name": "P20CP02LA04 (LIBRARY - GOLDEN TRIANGLE - 1189FT)",
+    "planned_ft": 1189,
+    "lat": 32.93138715196519,
+    "lng": -97.28928498758582
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "WATER TANK",
+    "kmz_name": "P20CP02LA05 (WATER TANK - 2032FT)",
+    "planned_ft": 2032,
+    "lat": 32.92414419149994,
+    "lng": -97.2893904885579
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "CODE - PETSMART ADOPTION/HERITAGE TRACE",
+    "kmz_name": "P20CP02LA06 (CODE - PETSMART ADOPTION/HERITAGE TRACE - 8171FT)",
+    "planned_ft": 8171,
+    "lat": 32.9149461328443,
+    "lng": -97.28955245968666
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "FIRE STATION #31",
+    "kmz_name": "P20CP03LA01 (FIRE STATION #31 - 362FT)",
+    "planned_ft": 362,
+    "lat": 32.86694322417137,
+    "lng": -97.29146445619936
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "LIBRARY - SUMMERGLEN",
+    "kmz_name": "P20CP03LA02 (LIBRARY - SUMMERGLEN - 1030FT)",
+    "planned_ft": 1030,
+    "lat": 32.87262509050262,
+    "lng": -97.29036624439254
+  },
+  {
+    "phase_id": "P20",
+    "sub_id": "TOWER - NORTH BEACH",
+    "kmz_name": "P20CP03LA03 (TOWER - NORTH BEACH - 100FT)",
+    "planned_ft": 100,
+    "lat": 32.92441816500518,
+    "lng": -97.28412627829852
+  },
+  {
+    "phase_id": "P21",
+    "sub_id": "FIRE STATION #9",
+    "kmz_name": "P21CP01LA01 (FIRE STATION #9 - 6874FT)",
+    "planned_ft": 6874,
+    "lat": 32.82423504278124,
+    "lng": -97.29056582535257
+  }
+]
