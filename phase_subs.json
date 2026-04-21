@@ -58,7 +58,7 @@
     "sub_id": "unattributed-r8",
     "planned_ft": 0,
     "completed_ft": 471,
-    "pct_complete": 0.0,
+    "pct_complete": 0,
     "status": "not_started",
     "inspector": null
   },
@@ -211,7 +211,7 @@
     "sub_id": "unattributed-r5",
     "planned_ft": 0,
     "completed_ft": 1400,
-    "pct_complete": 0.0,
+    "pct_complete": 0,
     "status": "not_started",
     "inspector": null
   },
