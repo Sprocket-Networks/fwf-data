@@ -1,0 +1,182 @@
+[
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 79096,
+    "planned_ft": 93554,
+    "delta_ft": 0,
+    "pct_complete": 0.8455
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 795,
+    "planned_ft": 14557,
+    "delta_ft": 295,
+    "pct_complete": 0.0546
+  },
+  {
+    "phase_id": "P05",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
+    "completed_ft": 31395,
+    "planned_ft": 77752,
+    "delta_ft": 3807,
+    "pct_complete": 0.4038
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 0,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P03",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
+    "completed_ft": 8454,
+    "planned_ft": 34485,
+    "delta_ft": 345,
+    "pct_complete": 0.2452
+  },
+  {
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 54883,
+    "planned_ft": 59456,
+    "delta_ft": 0,
+    "pct_complete": 0.9231
+  },
+  {
+    "phase_id": "P01",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
+    "completed_ft": 36902,
+    "planned_ft": 79023,
+    "delta_ft": 0,
+    "pct_complete": 0.467
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 79096,
+    "planned_ft": 93554,
+    "delta_ft": 1580,
+    "pct_complete": 0.8455
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 500,
+    "planned_ft": 14557,
+    "delta_ft": -50,
+    "pct_complete": 0.0343
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 0,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 54883,
+    "planned_ft": 59456,
+    "delta_ft": 0,
+    "pct_complete": 0.9231
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 77516,
+    "planned_ft": 93554,
+    "delta_ft": 77516,
+    "pct_complete": 0.8286
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 550,
+    "planned_ft": 13228,
+    "delta_ft": 550,
+    "pct_complete": 0.0416
+  },
+  {
+    "phase_id": "P05",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
+    "completed_ft": 27588,
+    "planned_ft": 77752,
+    "delta_ft": 27588,
+    "pct_complete": 0.3548
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 52567,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P03",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
+    "completed_ft": 8109,
+    "planned_ft": 34485,
+    "delta_ft": 8109,
+    "pct_complete": 0.2351
+  },
+  {
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 54883,
+    "planned_ft": 59456,
+    "delta_ft": 54883,
+    "pct_complete": 0.9231
+  },
+  {
+    "phase_id": "P01",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
+    "completed_ft": 36902,
+    "planned_ft": 79023,
+    "delta_ft": 36902,
+    "pct_complete": 0.467
+  }
+]
