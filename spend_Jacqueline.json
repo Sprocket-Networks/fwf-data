@@ -1,0 +1,30 @@
+[
+  {
+    "bill_date": "2026-04-03",
+    "doc_num": "Multiple",
+    "total_amt": 549335.92,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2026-03-24",
+    "doc_num": "Multiple",
+    "total_amt": 321890.8,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2025-07-28",
+    "doc_num": "1547",
+    "total_amt": 35639.5,
+    "balance": 0.0,
+    "memo": "FW: FWF CBD Proofing, Rodding and Butterflies"
+  },
+  {
+    "bill_date": "2025-06-05",
+    "doc_num": "1544",
+    "total_amt": 2555.0,
+    "balance": 0.0,
+    "memo": "2220 Canton St (215 Henry St) - Splicing"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "run_at": "2026-04-21T04:38:00.223322+00:00",
+    "status": "OK",
+    "sources_read": [
+      "2026-04-20__Sprocket_Tracker.xlsx",
+      "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx"
+    ],
+    "rows_written": 192
+  }
+]

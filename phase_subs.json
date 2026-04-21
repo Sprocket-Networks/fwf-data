@@ -1,0 +1,623 @@
+[
+  {
+    "phase_id": "P01",
+    "sub_id": "PHASE 1 - S1",
+    "planned_ft": 14046,
+    "completed_ft": 14046,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PHASE 1 - S2",
+    "planned_ft": 4491,
+    "completed_ft": 4491,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PHASE 1 - S3",
+    "planned_ft": 4739,
+    "completed_ft": 4739,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "row-5",
+    "planned_ft": 8100,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PHASE 1 - S4",
+    "planned_ft": 13438,
+    "completed_ft": 13155,
+    "pct_complete": 0.9789,
+    "status": "in_progress",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PHASE 1 - S5",
+    "planned_ft": 9975,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "unattributed-r8",
+    "planned_ft": 0,
+    "completed_ft": 471,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION 30",
+    "planned_ft": 11046,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - CACU",
+    "planned_ft": 424,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - RD EVANS CC",
+    "planned_ft": 3375,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - WEST DIVISION",
+    "planned_ft": 1300,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WATER RIDGLEA TOWER",
+    "planned_ft": 161,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PARD - COMO CC",
+    "planned_ft": 5849,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION 16",
+    "planned_ft": 270,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WATER WESTSIDE PUMP STATION",
+    "planned_ft": 357,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "LIBRARY - RIDGLEA",
+    "planned_ft": 858,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "WILL ROGERS MEMORIAL CENTER",
+    "planned_ft": 68,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "FIRE STATION 18",
+    "planned_ft": 111,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "PD - 7TH BIKE SF",
+    "planned_ft": 415,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P02",
+    "sub_id": "FULL ROUTE",
+    "planned_ft": 59456,
+    "completed_ft": 54883,
+    "pct_complete": 0.9231,
+    "status": "in_progress",
+    "inspector": "BENJAMIN"
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PHASE 3 PERMIT 1",
+    "planned_ft": 5428,
+    "completed_ft": 2688,
+    "pct_complete": 0.4952,
+    "status": "in_progress",
+    "inspector": "LESLIE"
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PHASE 3 PERMIT 2",
+    "planned_ft": 19510,
+    "completed_ft": 4366,
+    "pct_complete": 0.2238,
+    "status": "in_progress",
+    "inspector": "LESLIE"
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PHASE 3 PERMIT 3",
+    "planned_ft": 9375,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "LESLIE / LARRY"
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "unattributed-r5",
+    "planned_ft": 0,
+    "completed_ft": 1400,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PARD - LOG CABIN VILLAGE",
+    "planned_ft": 96,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P03",
+    "sub_id": "PD - NPD 2",
+    "planned_ft": 76,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PH 4 - SEC 1",
+    "planned_ft": 16627,
+    "completed_ft": 7200,
+    "pct_complete": 0.433,
+    "status": "in_progress",
+    "inspector": "WRIGHT/Flores"
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PH 4 - SEC 2",
+    "planned_ft": 17415,
+    "completed_ft": 15138,
+    "pct_complete": 0.8693,
+    "status": "in_progress",
+    "inspector": "FLORES/Austin"
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PH 4 - SEC 3",
+    "planned_ft": 14881,
+    "completed_ft": 14507,
+    "pct_complete": 0.9749,
+    "status": "in_progress",
+    "inspector": "WRIGHT/Flores"
+  },
+  {
+    "phase_id": "P04",
+    "sub_id": "PH 4 - SEC 4",
+    "planned_ft": 15893,
+    "completed_ft": 15722,
+    "pct_complete": 0.9892,
+    "status": "in_progress",
+    "inspector": "FLORES/Austin"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "BACKBONE",
+    "planned_ft": 12292,
+    "completed_ft": 11829,
+    "pct_complete": 0.9623,
+    "status": "in_progress",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "LIBRARY - MEADOWBROOK",
+    "planned_ft": 567,
+    "completed_ft": 567,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION 24",
+    "planned_ft": 5928,
+    "completed_ft": 395,
+    "pct_complete": 0.0666,
+    "status": "in_progress",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - HANDLEY/MEADOWBROOK CC",
+    "planned_ft": 992,
+    "completed_ft": 992,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PD - EAST DIVISION",
+    "planned_ft": 152,
+    "completed_ft": 152,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION 3",
+    "planned_ft": 1689,
+    "completed_ft": 1689,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "row-8",
+    "planned_ft": 3400,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "BACKBONE",
+    "planned_ft": 11733,
+    "completed_ft": 9699,
+    "pct_complete": 0.8266,
+    "status": "in_progress",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "row-10",
+    "planned_ft": 1918,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "CODE - ANIMAL CONTROL",
+    "planned_ft": 1331,
+    "completed_ft": 1240,
+    "pct_complete": 0.9316,
+    "status": "in_progress",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "WATER TOWER",
+    "planned_ft": 5246,
+    "completed_ft": 3807,
+    "pct_complete": 0.7257,
+    "status": "in_progress",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "FIRE STATION 22",
+    "planned_ft": 1025,
+    "completed_ft": 1025,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "LIBRARY - EAST BERRY",
+    "planned_ft": 159,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "SE DROP OFF CENTER",
+    "planned_ft": 241,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "Carlos"
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "BACKBONE",
+    "planned_ft": 8992,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - BRADLEY CENTER CC",
+    "planned_ft": 4541,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "BACKBONE",
+    "planned_ft": 14319,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P05",
+    "sub_id": "PARD - FORESTRY",
+    "planned_ft": 3227,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": null
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP01-BACKBONE",
+    "planned_ft": 12828,
+    "completed_ft": 645,
+    "pct_complete": 0.0503,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP01-L1",
+    "planned_ft": 1429,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "row-4",
+    "planned_ft": 100,
+    "completed_ft": 50,
+    "pct_complete": 0.5,
+    "status": "in_progress",
+    "inspector": null
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "row-5",
+    "planned_ft": 100,
+    "completed_ft": 50,
+    "pct_complete": 0.5,
+    "status": "in_progress",
+    "inspector": null
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "row-6",
+    "planned_ft": 100,
+    "completed_ft": 50,
+    "pct_complete": 0.5,
+    "status": "in_progress",
+    "inspector": null
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP03-L1",
+    "planned_ft": 9569,
+    "completed_ft": 9569,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP03-L2",
+    "planned_ft": 2385,
+    "completed_ft": 2385,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP02-BACKBONE",
+    "planned_ft": 9153,
+    "completed_ft": 9153,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP03-BACKBONE",
+    "planned_ft": 15570,
+    "completed_ft": 12999,
+    "pct_complete": 0.8349,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP04-BACKBONE",
+    "planned_ft": 11671,
+    "completed_ft": 8900,
+    "pct_complete": 0.7626,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP03-L4",
+    "planned_ft": 50,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP01-BACKBONE",
+    "planned_ft": 18199,
+    "completed_ft": 18049,
+    "pct_complete": 0.9918,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP01-L1",
+    "planned_ft": 6705,
+    "completed_ft": 1654,
+    "pct_complete": 0.2467,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP02-L1",
+    "planned_ft": 9872,
+    "completed_ft": 9872,
+    "pct_complete": 1.0,
+    "status": "complete",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09-CP04-L2 TRWD",
+    "planned_ft": 8638,
+    "completed_ft": 5142,
+    "pct_complete": 0.5953,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P09",
+    "sub_id": "P09 - CP04 - L1",
+    "planned_ft": 1742,
+    "completed_ft": 1373,
+    "pct_complete": 0.7882,
+    "status": "in_progress",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10-CP02-L3",
+    "planned_ft": 4763,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10-CP02-L2",
+    "planned_ft": 922,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10-CP02-L1",
+    "planned_ft": 5131,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10-CP02 BACKBONE",
+    "planned_ft": 8871,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10-CP02-L5",
+    "planned_ft": 52,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "last_run_at": "2026-04-21T04:38:00.223322+00:00",
+  "status": "OK",
+  "tabs_written": [
+    "phases",
+    "phase_subs",
+    "weekly_production",
+    "spend_summary",
+    "planned_overrides",
+    "pipeline_log",
+    "spend_Sunrise",
+    "spend_Jacqueline",
+    "spend_Hexatronic",
+    "spend_Galloway",
+    "spend_Channell",
+    "spend_LIT",
+    "spend_Eagle1"
+  ],
+  "source_sheet_id": "19U9tTGngZJH9PlRtGt0J4fRTdHiIj8RTYukwlMir_Pk",
+  "pipeline_version": "2ab411e"
+}
