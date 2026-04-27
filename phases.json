@@ -23,7 +23,7 @@
     "permitted_ft": null,
     "handholes_planned": 64,
     "handholes_completed": 64,
-    "last_tracker_date": "2026-04-20"
+    "last_tracker_date": "2026-04-24"
   },
   {
     "phase_id": "P03",
@@ -49,7 +49,7 @@
     "permitted_ft": null,
     "handholes_planned": 58,
     "handholes_completed": 47,
-    "last_tracker_date": "2026-04-20"
+    "last_tracker_date": "2026-04-24"
   },
   {
     "phase_id": "P05",
@@ -70,12 +70,12 @@
     "contractor_prime": "Jacqueline",
     "contractor_sub": "",
     "planned_ft": 141190,
-    "completed_ft": 795,
-    "pct_complete": 0.0056,
+    "completed_ft": 4535,
+    "pct_complete": 0.0321,
     "permitted_ft": null,
     "handholes_planned": 0,
     "handholes_completed": 0,
-    "last_tracker_date": "2026-04-20"
+    "last_tracker_date": "2026-04-24"
   },
   {
     "phase_id": "P09",
@@ -83,12 +83,12 @@
     "contractor_prime": "Jacqueline",
     "contractor_sub": "",
     "planned_ft": 93779,
-    "completed_ft": 79096,
-    "pct_complete": 0.8434,
+    "completed_ft": 84005,
+    "pct_complete": 0.8958,
     "permitted_ft": null,
     "handholes_planned": 33,
     "handholes_completed": 24,
-    "last_tracker_date": "2026-04-20"
+    "last_tracker_date": "2026-04-24"
   },
   {
     "phase_id": "P10",
@@ -101,6 +101,6 @@
     "permitted_ft": null,
     "handholes_planned": 0,
     "handholes_completed": 0,
-    "last_tracker_date": "2026-04-20"
+    "last_tracker_date": "2026-04-24"
   }
 ]

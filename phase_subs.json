@@ -444,8 +444,8 @@
     "phase_id": "P06",
     "sub_id": "P06-CP01-BACKBONE",
     "planned_ft": 12828,
-    "completed_ft": 645,
-    "pct_complete": 0.0503,
+    "completed_ft": 3556,
+    "pct_complete": 0.2772,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
@@ -453,9 +453,9 @@
     "phase_id": "P06",
     "sub_id": "P06-CP01-L1",
     "planned_ft": 1429,
-    "completed_ft": 0,
-    "pct_complete": 0.0,
-    "status": "not_started",
+    "completed_ft": 829,
+    "pct_complete": 0.5801,
+    "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
   {
@@ -516,8 +516,8 @@
     "phase_id": "P09",
     "sub_id": "P09-CP03-BACKBONE",
     "planned_ft": 15570,
-    "completed_ft": 12999,
-    "pct_complete": 0.8349,
+    "completed_ft": 13649,
+    "pct_complete": 0.8766,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
@@ -543,17 +543,17 @@
     "phase_id": "P09",
     "sub_id": "P09-CP01-BACKBONE",
     "planned_ft": 18199,
-    "completed_ft": 18049,
-    "pct_complete": 0.9918,
-    "status": "in_progress",
+    "completed_ft": 18199,
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P09",
     "sub_id": "P09-CP01-L1",
     "planned_ft": 6705,
-    "completed_ft": 1654,
-    "pct_complete": 0.2467,
+    "completed_ft": 5763,
+    "pct_complete": 0.8595,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
