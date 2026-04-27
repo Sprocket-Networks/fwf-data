@@ -1,63 +1,13 @@
 [
   {
-    "phase_id": "P09",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
-    "completed_ft": 79096,
-    "planned_ft": 93554,
-    "delta_ft": 0,
-    "pct_complete": 0.8455
-  },
-  {
-    "phase_id": "P06",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
-    "completed_ft": 795,
-    "planned_ft": 14557,
-    "delta_ft": 295,
-    "pct_complete": 0.0546
-  },
-  {
-    "phase_id": "P05",
+    "phase_id": "P01",
     "contractor": "Sunrise",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
-    "completed_ft": 31395,
-    "planned_ft": 77752,
-    "delta_ft": 3807,
-    "pct_complete": 0.4038
-  },
-  {
-    "phase_id": "P04",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
-    "completed_ft": 52567,
-    "planned_ft": 64816,
-    "delta_ft": 0,
-    "pct_complete": 0.811
-  },
-  {
-    "phase_id": "P03",
-    "contractor": "Sunrise",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
-    "completed_ft": 8454,
-    "planned_ft": 34485,
-    "delta_ft": 345,
-    "pct_complete": 0.2452
-  },
-  {
-    "phase_id": "P02",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-20",
-    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
-    "completed_ft": 54883,
-    "planned_ft": 59456,
-    "delta_ft": 0,
-    "pct_complete": 0.9231
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
+    "completed_ft": 36902,
+    "planned_ft": 79023,
+    "delta_ft": 36902,
+    "pct_complete": 0.467
   },
   {
     "phase_id": "P01",
@@ -70,94 +20,14 @@
     "pct_complete": 0.467
   },
   {
-    "phase_id": "P09",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-17",
-    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
-    "completed_ft": 79096,
-    "planned_ft": 93554,
-    "delta_ft": 1580,
-    "pct_complete": 0.8455
-  },
-  {
-    "phase_id": "P06",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-17",
-    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
-    "completed_ft": 500,
-    "planned_ft": 14557,
-    "delta_ft": -50,
-    "pct_complete": 0.0343
-  },
-  {
-    "phase_id": "P04",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-17",
-    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
-    "completed_ft": 52567,
-    "planned_ft": 64816,
-    "delta_ft": 0,
-    "pct_complete": 0.811
-  },
-  {
-    "phase_id": "P02",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-17",
-    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
-    "completed_ft": 54883,
-    "planned_ft": 59456,
-    "delta_ft": 0,
-    "pct_complete": 0.9231
-  },
-  {
-    "phase_id": "P09",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-16",
-    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
-    "completed_ft": 77516,
-    "planned_ft": 93554,
-    "delta_ft": 77516,
-    "pct_complete": 0.8286
-  },
-  {
-    "phase_id": "P06",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-16",
-    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
-    "completed_ft": 550,
-    "planned_ft": 13228,
-    "delta_ft": 550,
-    "pct_complete": 0.0416
-  },
-  {
-    "phase_id": "P05",
+    "phase_id": "P01",
     "contractor": "Sunrise",
-    "tracker_date": "2026-04-16",
-    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
-    "completed_ft": 27588,
-    "planned_ft": 77752,
-    "delta_ft": 27588,
-    "pct_complete": 0.3548
-  },
-  {
-    "phase_id": "P04",
-    "contractor": "Jacqueline",
-    "tracker_date": "2026-04-16",
-    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
-    "completed_ft": 52567,
-    "planned_ft": 64816,
-    "delta_ft": 52567,
-    "pct_complete": 0.811
-  },
-  {
-    "phase_id": "P03",
-    "contractor": "Sunrise",
-    "tracker_date": "2026-04-16",
-    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
-    "completed_ft": 8109,
-    "planned_ft": 34485,
-    "delta_ft": 8109,
-    "pct_complete": 0.2351
+    "tracker_date": "2026-04-27",
+    "tracker_file": "2026-04-27__pipeline_run_2ab411e",
+    "completed_ft": 36855,
+    "planned_ft": 87640,
+    "pct_complete": 0.4205,
+    "delta_ft": -47
   },
   {
     "phase_id": "P02",
@@ -170,13 +40,223 @@
     "pct_complete": 0.9231
   },
   {
-    "phase_id": "P01",
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 54883,
+    "planned_ft": 59456,
+    "delta_ft": 0,
+    "pct_complete": 0.9231
+  },
+  {
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 54883,
+    "planned_ft": 59456,
+    "delta_ft": 0,
+    "pct_complete": 0.9231
+  },
+  {
+    "phase_id": "P02",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-24",
+    "tracker_file": "2026-04-24__pipeline_run_2ab411e",
+    "completed_ft": 54883,
+    "planned_ft": 99579,
+    "pct_complete": 0.5512,
+    "delta_ft": 0
+  },
+  {
+    "phase_id": "P03",
     "contractor": "Sunrise",
     "tracker_date": "2026-04-16",
     "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
-    "completed_ft": 36902,
-    "planned_ft": 79023,
-    "delta_ft": 36902,
-    "pct_complete": 0.467
+    "completed_ft": 8109,
+    "planned_ft": 34485,
+    "delta_ft": 8109,
+    "pct_complete": 0.2351
+  },
+  {
+    "phase_id": "P03",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
+    "completed_ft": 8454,
+    "planned_ft": 34485,
+    "delta_ft": 345,
+    "pct_complete": 0.2452
+  },
+  {
+    "phase_id": "P03",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-27",
+    "tracker_file": "2026-04-27__pipeline_run_2ab411e",
+    "completed_ft": 8990,
+    "planned_ft": 46305,
+    "pct_complete": 0.1941,
+    "delta_ft": 536
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 52567,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 0,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 52567,
+    "planned_ft": 64816,
+    "delta_ft": 0,
+    "pct_complete": 0.811
+  },
+  {
+    "phase_id": "P04",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-24",
+    "tracker_file": "2026-04-24__pipeline_run_2ab411e",
+    "completed_ft": 52567,
+    "planned_ft": 74148,
+    "pct_complete": 0.7089,
+    "delta_ft": 0
+  },
+  {
+    "phase_id": "P05",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker.xlsx",
+    "completed_ft": 27588,
+    "planned_ft": 77752,
+    "delta_ft": 27588,
+    "pct_complete": 0.3548
+  },
+  {
+    "phase_id": "P05",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker.xlsx",
+    "completed_ft": 31395,
+    "planned_ft": 77752,
+    "delta_ft": 3807,
+    "pct_complete": 0.4038
+  },
+  {
+    "phase_id": "P05",
+    "contractor": "Sunrise",
+    "tracker_date": "2026-04-27",
+    "tracker_file": "2026-04-27__pipeline_run_2ab411e",
+    "completed_ft": 36324,
+    "planned_ft": 74618,
+    "pct_complete": 0.4868,
+    "delta_ft": 4929
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 550,
+    "planned_ft": 13228,
+    "delta_ft": 550,
+    "pct_complete": 0.0416
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 500,
+    "planned_ft": 14557,
+    "delta_ft": -50,
+    "pct_complete": 0.0343
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 795,
+    "planned_ft": 14557,
+    "delta_ft": 295,
+    "pct_complete": 0.0546
+  },
+  {
+    "phase_id": "P06",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-24",
+    "tracker_file": "2026-04-24__pipeline_run_2ab411e",
+    "completed_ft": 4535,
+    "planned_ft": 141190,
+    "pct_complete": 0.0321,
+    "delta_ft": 3740
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-16",
+    "tracker_file": "2026-04-16__Sprocket_Tracker_4_15_2026_2.xlsx",
+    "completed_ft": 77516,
+    "planned_ft": 93554,
+    "delta_ft": 77516,
+    "pct_complete": 0.8286
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-17",
+    "tracker_file": "2026-04-17__Sprocket_Tracker_4_16_2026_2.xlsx",
+    "completed_ft": 79096,
+    "planned_ft": 93554,
+    "delta_ft": 1580,
+    "pct_complete": 0.8455
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-20",
+    "tracker_file": "2026-04-20__Sprocket_Tracker_4_17_2026_2.xlsx",
+    "completed_ft": 79096,
+    "planned_ft": 93554,
+    "delta_ft": 0,
+    "pct_complete": 0.8455
+  },
+  {
+    "phase_id": "P09",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-24",
+    "tracker_file": "2026-04-24__pipeline_run_2ab411e",
+    "completed_ft": 84005,
+    "planned_ft": 93779,
+    "pct_complete": 0.8958,
+    "delta_ft": 4909
+  },
+  {
+    "phase_id": "P10",
+    "contractor": "Jacqueline",
+    "tracker_date": "2026-04-24",
+    "tracker_file": "2026-04-24__pipeline_run_2ab411e",
+    "completed_ft": 0,
+    "planned_ft": 19739,
+    "pct_complete": 0.0,
+    "delta_ft": 0
   }
 ]
