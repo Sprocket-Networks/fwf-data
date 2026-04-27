@@ -1,5 +1,33 @@
 [
   {
+    "bill_date": "2026-04-27",
+    "doc_num": "INV005499",
+    "total_amt": 2760.38,
+    "balance": 2760.38,
+    "memo": "14 Reels - 70K Ft Shipped to Jacqueline 4/23/26\n1 Reel - 5K Ft Shipped to Sunrise 4/27/26"
+  },
+  {
+    "bill_date": "2026-04-27",
+    "doc_num": "INV005500",
+    "total_amt": 18575.7,
+    "balance": 18575.7,
+    "memo": "Q226 \n48 Reels Received JAC 3/30/26 - 4/16/26\n30 Reels Received Sunrise 4/7/26 - 4-27\nPacking Slips attached."
+  },
+  {
+    "bill_date": "2026-04-27",
+    "doc_num": "INV005527",
+    "total_amt": 35527.65,
+    "balance": 35527.65,
+    "memo": "Q226 \n48 Reels Received JAC 3/30/26 - 4/16/26\n30 Reels Received Sunrise 4/7/26 - 4-27"
+  },
+  {
+    "bill_date": "2026-04-23",
+    "doc_num": "INV005491",
+    "total_amt": 36263.75,
+    "balance": 36263.75,
+    "memo": "14 Reels - 70K Ft Shipped to Jacqueline 4/23/26\n1 Reel - 5K Ft Shipped to Sunrise 4/23/26\n\ninvoice and packing ship attached"
+  },
+  {
     "bill_date": "2026-04-16",
     "doc_num": "INV005311",
     "total_amt": 35516.83,

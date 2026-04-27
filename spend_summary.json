@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "vendor": "Sunrise Telecom Inc",
+    "category": "construction",
+    "bills_count": 3,
+    "total_billed": 1925927.04,
+    "total_paid": 1925927.04,
+    "outstanding": 0.0,
+    "latest_bill_date": "2026-02-27"
+  },
+  {
+    "vendor": "Jacqueline Construction",
+    "category": "construction",
+    "bills_count": 5,
+    "total_billed": 1229611.3,
+    "total_paid": 1229611.3,
+    "outstanding": 0.0,
+    "latest_bill_date": "2026-04-17"
+  },
+  {
+    "vendor": "Hexatronic US Inc",
+    "category": "materials",
+    "bills_count": 46,
+    "total_billed": 884233.9,
+    "total_paid": 684750.79,
+    "outstanding": 199483.11,
+    "latest_bill_date": "2026-04-27"
+  },
+  {
+    "vendor": "The Galloway Group - Tyler",
+    "category": "materials",
+    "bills_count": 13,
+    "total_billed": 284301.38,
+    "total_paid": 250913.81,
+    "outstanding": 33387.57,
+    "latest_bill_date": "2026-04-07"
+  },
+  {
+    "vendor": "Channell Commercial Corporation",
+    "category": "materials",
+    "bills_count": 0,
+    "total_billed": 0,
+    "total_paid": 0,
+    "outstanding": 0,
+    "latest_bill_date": null
+  },
+  {
+    "vendor": "LIT Services",
+    "category": "engineering",
+    "bills_count": 13,
+    "total_billed": 281517.5,
+    "total_paid": 281517.5,
+    "outstanding": 0.0,
+    "latest_bill_date": "2026-02-03"
+  },
+  {
+    "vendor": "Eagle 1 Resources",
+    "category": "engineering",
+    "bills_count": 0,
+    "total_billed": 0,
+    "total_paid": 0,
+    "outstanding": 0,
+    "latest_bill_date": null
+  }
+]

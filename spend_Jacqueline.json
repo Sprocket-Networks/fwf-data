@@ -1,5 +1,12 @@
 [
   {
+    "bill_date": "2026-04-17",
+    "doc_num": "Multiple",
+    "total_amt": 320190.08,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
     "bill_date": "2026-04-03",
     "doc_num": "Multiple",
     "total_amt": 549335.92,
