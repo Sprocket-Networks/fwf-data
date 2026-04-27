@@ -39,9 +39,18 @@
     "phase_id": "P01",
     "sub_id": "PHASE 1 - S4",
     "planned_ft": 13438,
-    "completed_ft": 13155,
-    "pct_complete": 0.9789,
+    "completed_ft": 13108,
+    "pct_complete": 0.9754,
     "status": "in_progress",
+    "inspector": null
+  },
+  {
+    "phase_id": "P01",
+    "sub_id": "row-7",
+    "planned_ft": 692,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
     "inspector": null
   },
   {
@@ -55,7 +64,7 @@
   },
   {
     "phase_id": "P01",
-    "sub_id": "unattributed-r8",
+    "sub_id": "unattributed-r9",
     "planned_ft": 0,
     "completed_ft": 471,
     "pct_complete": 0,
@@ -192,8 +201,8 @@
     "phase_id": "P03",
     "sub_id": "PHASE 3 PERMIT 2",
     "planned_ft": 19510,
-    "completed_ft": 4366,
-    "pct_complete": 0.2238,
+    "completed_ft": 4902,
+    "pct_complete": 0.2513,
     "status": "in_progress",
     "inspector": "LESLIE"
   },
@@ -290,9 +299,9 @@
   {
     "phase_id": "P05",
     "sub_id": "FIRE STATION 24",
-    "planned_ft": 5928,
-    "completed_ft": 395,
-    "pct_complete": 0.0666,
+    "planned_ft": 6053,
+    "completed_ft": 3905,
+    "pct_complete": 0.6451,
     "status": "in_progress",
     "inspector": "Carlos"
   },
@@ -353,19 +362,19 @@
   {
     "phase_id": "P05",
     "sub_id": "CODE - ANIMAL CONTROL",
-    "planned_ft": 1331,
+    "planned_ft": 1240,
     "completed_ft": 1240,
-    "pct_complete": 0.9316,
-    "status": "in_progress",
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "Carlos"
   },
   {
     "phase_id": "P05",
     "sub_id": "WATER TOWER",
-    "planned_ft": 5246,
-    "completed_ft": 3807,
-    "pct_complete": 0.7257,
-    "status": "in_progress",
+    "planned_ft": 5092,
+    "completed_ft": 5092,
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "Carlos"
   },
   {
@@ -380,10 +389,10 @@
   {
     "phase_id": "P05",
     "sub_id": "LIBRARY - EAST BERRY",
-    "planned_ft": 159,
-    "completed_ft": 0,
-    "pct_complete": 0.0,
-    "status": "not_started",
+    "planned_ft": 134,
+    "completed_ft": 134,
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "Carlos"
   },
   {
