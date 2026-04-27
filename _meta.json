@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-04-21T17:41:49.200297+00:00",
+  "last_run_at": "2026-04-27T21:31:18.754959+00:00",
   "status": "OK",
   "tabs_written": [
     "phases",
@@ -7,15 +7,9 @@
     "weekly_production",
     "spend_summary",
     "planned_overrides",
-    "pipeline_log",
-    "spend_Sunrise",
-    "spend_Jacqueline",
-    "spend_Hexatronic",
-    "spend_Galloway",
-    "spend_Channell",
-    "spend_LIT",
-    "spend_Eagle1"
+    "pipeline_log"
   ],
   "source_sheet_id": "19U9tTGngZJH9PlRtGt0J4fRTdHiIj8RTYukwlMir_Pk",
-  "pipeline_version": "2ab411e"
+  "pipeline_version": "2ab411e",
+  "last_failure_at": "2026-04-27T18:00:00.729328+00:00"
 }
