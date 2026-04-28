@@ -10,7 +10,7 @@
     "permitted_ft": null,
     "handholes_planned": 0,
     "handholes_completed": 39,
-    "last_tracker_date": "2026-04-27"
+    "last_tracker_date": "2026-04-28"
   },
   {
     "phase_id": "P02",
@@ -31,12 +31,12 @@
     "contractor_prime": "Sunrise",
     "contractor_sub": "Customized Tech",
     "planned_ft": 46305,
-    "completed_ft": 8990,
-    "pct_complete": 0.1941,
+    "completed_ft": 9354,
+    "pct_complete": 0.202,
     "permitted_ft": null,
     "handholes_planned": 9,
     "handholes_completed": 0,
-    "last_tracker_date": "2026-04-27"
+    "last_tracker_date": "2026-04-28"
   },
   {
     "phase_id": "P04",
@@ -57,12 +57,12 @@
     "contractor_prime": "Sunrise",
     "contractor_sub": "Elex",
     "planned_ft": 74618,
-    "completed_ft": 36324,
-    "pct_complete": 0.4868,
+    "completed_ft": 37912,
+    "pct_complete": 0.5081,
     "permitted_ft": null,
     "handholes_planned": 29,
     "handholes_completed": 29,
-    "last_tracker_date": "2026-04-27"
+    "last_tracker_date": "2026-04-28"
   },
   {
     "phase_id": "P06",

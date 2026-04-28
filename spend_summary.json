@@ -1,7 +1,6 @@
 [
   {
     "vendor": "Sunrise Telecom Inc",
-    "vendor_id": "148",
     "category": "construction",
     "tab_suffix": "Sunrise",
     "bills_count": 3,
@@ -12,7 +11,6 @@
   },
   {
     "vendor": "Jacqueline Construction",
-    "vendor_id": "140",
     "category": "construction",
     "tab_suffix": "Jacqueline",
     "bills_count": 5,
@@ -23,18 +21,16 @@
   },
   {
     "vendor": "Hexatronic US Inc",
-    "vendor_id": "113",
     "category": "materials",
     "tab_suffix": "Hexatronic",
     "bills_count": 46,
     "total_billed": 884233.9,
     "total_paid": 684750.79,
-    "outstanding": 199483.11000000002,
+    "outstanding": 199483.11,
     "latest_bill_date": "2026-04-27"
   },
   {
     "vendor": "The Galloway Group - Tyler",
-    "vendor_id": "127",
     "category": "materials",
     "tab_suffix": "Galloway",
     "bills_count": 13,
@@ -45,7 +41,6 @@
   },
   {
     "vendor": "LIT Services",
-    "vendor_id": "81",
     "category": "engineering",
     "tab_suffix": "LIT",
     "bills_count": 13,
@@ -56,7 +51,6 @@
   },
   {
     "vendor": "Brandon Henline / OSP And Design Consultants LLC",
-    "vendor_id": "106",
     "category": "management",
     "tab_suffix": "OSP",
     "bills_count": 16,
@@ -67,7 +61,6 @@
   },
   {
     "vendor": "NTXCOM \u2013 Construction (Fibertex)",
-    "vendor_id": "93",
     "category": "construction",
     "tab_suffix": "NTXCOM_Construction",
     "bills_count": 2,
@@ -78,7 +71,6 @@
   },
   {
     "vendor": "NTXCOM, LLC",
-    "vendor_id": "93",
     "category": "engineering",
     "tab_suffix": "NTXCOM",
     "bills_count": 15,

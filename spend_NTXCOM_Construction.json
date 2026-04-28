@@ -1,22 +1,20 @@
 [
   {
-    "bill_date": "2025-03-27",
-    "doc_number": "1080",
-    "total_amount": 104340.0,
-    "amount_paid": 104340.0,
-    "outstanding": 0.0,
+    "bill_id": "1675",
+    "date": "2025-03-27",
+    "doc_num": "1080",
+    "total_amt": 104340.0,
+    "balance": 0.0,
     "memo": "Construction - NTXCOM / FIBERTEX - Phase 1",
-    "date_paid": "2025-03-28",
-    "bill_id": "1675"
+    "date_paid": "2025-03-28"
   },
   {
-    "bill_date": "2025-03-07",
-    "doc_number": "1079",
-    "total_amount": 18366.68,
-    "amount_paid": 18366.68,
-    "outstanding": 0.0,
+    "bill_id": "1666",
+    "date": "2025-03-07",
+    "doc_num": "1079",
+    "total_amt": 18366.68,
+    "balance": 0.0,
     "memo": "Pay invoice 1079 from NTXCOM with a few clicks",
-    "date_paid": "2025-03-22",
-    "bill_id": "1666"
+    "date_paid": "2025-03-22"
   }
 ]

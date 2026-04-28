@@ -201,8 +201,8 @@
     "phase_id": "P03",
     "sub_id": "PHASE 3 PERMIT 2",
     "planned_ft": 19510,
-    "completed_ft": 4902,
-    "pct_complete": 0.2513,
+    "completed_ft": 5266,
+    "pct_complete": 0.2699,
     "status": "in_progress",
     "inspector": "LESLIE"
   },
@@ -408,9 +408,9 @@
     "phase_id": "P05",
     "sub_id": "BACKBONE",
     "planned_ft": 8992,
-    "completed_ft": 0,
-    "pct_complete": 0.0,
-    "status": "not_started",
+    "completed_ft": 1588,
+    "pct_complete": 0.1766,
+    "status": "in_progress",
     "inspector": null
   },
   {
