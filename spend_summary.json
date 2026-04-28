@@ -45,7 +45,7 @@
     "tab_suffix": "Channell",
     "bills_count": 0,
     "total_billed": 0,
-    "total_paid": 0,
+    "total_paid": 0.0,
     "outstanding": 0,
     "latest_bill_date": null
   },
@@ -65,7 +65,7 @@
     "tab_suffix": "Eagle1",
     "bills_count": 0,
     "total_billed": 0,
-    "total_paid": 0,
+    "total_paid": 0.0,
     "outstanding": 0,
     "latest_bill_date": null
   },
@@ -80,12 +80,22 @@
     "latest_bill_date": "2026-05-01"
   },
   {
+    "vendor": "NTXCOM (Fibertex)",
+    "category": "construction",
+    "tab_suffix": "NTXCOM_Fibertex",
+    "bills_count": 1,
+    "total_billed": 104340.0,
+    "total_paid": 104340.0,
+    "outstanding": 0.0,
+    "latest_bill_date": "2025-03-27"
+  },
+  {
     "vendor": "NTXCOM, LLC",
     "category": "management",
     "tab_suffix": "NTXCOM",
-    "bills_count": 17,
-    "total_billed": 320953.56,
-    "total_paid": 305741.32,
+    "bills_count": 16,
+    "total_billed": 216613.56,
+    "total_paid": 201401.32,
     "outstanding": 0.0,
     "latest_bill_date": "2026-04-01"
   }
