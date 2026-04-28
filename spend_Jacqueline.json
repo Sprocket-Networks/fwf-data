@@ -1,47 +1,52 @@
 [
   {
-    "bill_id": "2930",
-    "date": "2026-04-17",
-    "doc_num": "Multiple",
-    "total_amt": 320190.08,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-04-17"
+    "bill_date": "2026-04-17",
+    "doc_number": "Multiple",
+    "total_amount": 320190.08,
+    "amount_paid": 320190.08,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-04-17",
+    "bill_id": "2930"
   },
   {
-    "bill_id": "2921",
-    "date": "2026-04-03",
-    "doc_num": "Multiple",
-    "total_amt": 549335.92,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-04-15"
+    "bill_date": "2026-04-03",
+    "doc_number": "Multiple",
+    "total_amount": 549335.92,
+    "amount_paid": 549335.92,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-04-15",
+    "bill_id": "2921"
   },
   {
-    "bill_id": "2819",
-    "date": "2026-03-24",
-    "doc_num": "Multiple",
-    "total_amt": 321890.8,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-04-01"
+    "bill_date": "2026-03-24",
+    "doc_number": "Multiple",
+    "total_amount": 321890.8,
+    "amount_paid": 321890.8,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-04-01",
+    "bill_id": "2819"
   },
   {
-    "bill_id": "2316",
-    "date": "2025-07-28",
-    "doc_num": "1547",
-    "total_amt": 35639.5,
-    "balance": 0.0,
+    "bill_date": "2025-07-28",
+    "doc_number": "1547",
+    "total_amount": 35639.5,
+    "amount_paid": 35639.5,
+    "outstanding": 0.0,
     "memo": "FW: FWF CBD Proofing, Rodding and Butterflies",
-    "date_paid": "2025-11-07"
+    "date_paid": "2025-11-07",
+    "bill_id": "2316"
   },
   {
-    "bill_id": "2317",
-    "date": "2025-06-05",
-    "doc_num": "1544",
-    "total_amt": 2555.0,
-    "balance": 0.0,
+    "bill_date": "2025-06-05",
+    "doc_number": "1544",
+    "total_amount": 2555.0,
+    "amount_paid": 2555.0,
+    "outstanding": 0.0,
     "memo": "2220 Canton St (215 Henry St) - Splicing",
-    "date_paid": "2025-11-07"
+    "date_paid": "2025-11-07",
+    "bill_id": "2317"
   }
 ]

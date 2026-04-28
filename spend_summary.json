@@ -1,6 +1,7 @@
 [
   {
     "vendor": "Sunrise Telecom Inc",
+    "vendor_id": "148",
     "category": "construction",
     "tab_suffix": "Sunrise",
     "bills_count": 3,
@@ -11,6 +12,7 @@
   },
   {
     "vendor": "Jacqueline Construction",
+    "vendor_id": "140",
     "category": "construction",
     "tab_suffix": "Jacqueline",
     "bills_count": 5,
@@ -21,6 +23,7 @@
   },
   {
     "vendor": "Hexatronic US Inc",
+    "vendor_id": "113",
     "category": "materials",
     "tab_suffix": "Hexatronic",
     "bills_count": 46,
@@ -31,6 +34,7 @@
   },
   {
     "vendor": "The Galloway Group - Tyler",
+    "vendor_id": "127",
     "category": "materials",
     "tab_suffix": "Galloway",
     "bills_count": 13,
@@ -40,17 +44,8 @@
     "latest_bill_date": "2026-04-07"
   },
   {
-    "vendor": "Channell Commercial Corporation",
-    "category": "materials",
-    "tab_suffix": "Channell",
-    "bills_count": 0,
-    "total_billed": 0,
-    "total_paid": 0.0,
-    "outstanding": 0,
-    "latest_bill_date": null
-  },
-  {
     "vendor": "LIT Services",
+    "vendor_id": "81",
     "category": "engineering",
     "tab_suffix": "LIT",
     "bills_count": 13,
@@ -60,17 +55,8 @@
     "latest_bill_date": "2026-02-03"
   },
   {
-    "vendor": "Eagle 1 Resources",
-    "category": "engineering",
-    "tab_suffix": "Eagle1",
-    "bills_count": 0,
-    "total_billed": 0,
-    "total_paid": 0.0,
-    "outstanding": 0,
-    "latest_bill_date": null
-  },
-  {
     "vendor": "Brandon Henline / OSP And Design Consultants LLC",
+    "vendor_id": "106",
     "category": "management",
     "tab_suffix": "OSP",
     "bills_count": 16,
@@ -80,22 +66,24 @@
     "latest_bill_date": "2026-05-01"
   },
   {
-    "vendor": "NTXCOM (Fibertex)",
+    "vendor": "NTXCOM \u2013 Construction",
+    "vendor_id": "93",
     "category": "construction",
-    "tab_suffix": "NTXCOM_Fibertex",
-    "bills_count": 1,
-    "total_billed": 104340.0,
-    "total_paid": 104340.0,
+    "tab_suffix": "NTXCOM_Construction",
+    "bills_count": 2,
+    "total_billed": 122706.68,
+    "total_paid": 122706.68,
     "outstanding": 0.0,
     "latest_bill_date": "2025-03-27"
   },
   {
     "vendor": "NTXCOM, LLC",
+    "vendor_id": "93",
     "category": "management",
     "tab_suffix": "NTXCOM",
-    "bills_count": 16,
-    "total_billed": 216613.56,
-    "total_paid": 201401.32,
+    "bills_count": 15,
+    "total_billed": 198246.88,
+    "total_paid": 183034.64,
     "outstanding": 0.0,
     "latest_bill_date": "2026-04-01"
   }

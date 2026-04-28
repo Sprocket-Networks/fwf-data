@@ -1,119 +1,132 @@
 [
   {
-    "bill_id": "2682",
-    "date": "2026-02-03",
-    "doc_num": "2026.176",
-    "total_amt": 51906.8,
-    "balance": 0.0,
+    "bill_date": "2026-02-03",
+    "doc_number": "2026.176",
+    "total_amount": 51906.8,
+    "amount_paid": 51906.8,
+    "outstanding": 0.0,
     "memo": "P09 - CFW",
-    "date_paid": "2026-02-27"
+    "date_paid": "2026-02-27",
+    "bill_id": "2682"
   },
   {
-    "bill_id": "2677",
-    "date": "2026-02-03",
-    "doc_num": "2026.177",
-    "total_amt": 40886.45,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-27"
+    "bill_date": "2026-02-03",
+    "doc_number": "2026.177",
+    "total_amount": 40886.45,
+    "amount_paid": 40886.45,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-27",
+    "bill_id": "2677"
   },
   {
-    "bill_id": "2676",
-    "date": "2026-01-12",
-    "doc_num": "2026.057",
-    "total_amt": 12775.4,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-12",
+    "doc_number": "2026.057",
+    "total_amount": 12775.4,
+    "amount_paid": 12775.4,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2676"
   },
   {
-    "bill_id": "2675",
-    "date": "2026-01-12",
-    "doc_num": "2026.058",
-    "total_amt": 4890.6,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-12",
+    "doc_number": "2026.058",
+    "total_amount": 4890.6,
+    "amount_paid": 4890.6,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2675"
   },
   {
-    "bill_id": "2681",
-    "date": "2026-01-05",
-    "doc_num": "5740.2400",
-    "total_amt": 5118.85,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-05",
+    "doc_number": "5740.2400",
+    "total_amount": 5118.85,
+    "amount_paid": 5118.85,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2681"
   },
   {
-    "bill_id": "2680",
-    "date": "2026-01-05",
-    "doc_num": "5740.2402",
-    "total_amt": 8800.55,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-05",
+    "doc_number": "5740.2402",
+    "total_amount": 8800.55,
+    "amount_paid": 8800.55,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2680"
   },
   {
-    "bill_id": "2679",
-    "date": "2026-01-05",
-    "doc_num": "5740.2399",
-    "total_amt": 15302.65,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-05",
+    "doc_number": "5740.2399",
+    "total_amount": 15302.65,
+    "amount_paid": 15302.65,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2679"
   },
   {
-    "bill_id": "2678",
-    "date": "2026-01-05",
-    "doc_num": "5740.2401",
-    "total_amt": 19484.85,
-    "balance": 0.0,
-    "memo": null,
-    "date_paid": "2026-02-20"
+    "bill_date": "2026-01-05",
+    "doc_number": "5740.2401",
+    "total_amount": 19484.85,
+    "amount_paid": 19484.85,
+    "outstanding": 0.0,
+    "memo": "",
+    "date_paid": "2026-02-20",
+    "bill_id": "2678"
   },
   {
-    "bill_id": "2037",
-    "date": "2025-07-07",
-    "doc_num": "5740.1328",
-    "total_amt": 17719.35,
-    "balance": 0.0,
+    "bill_date": "2025-07-07",
+    "doc_number": "5740.1328",
+    "total_amount": 17719.35,
+    "amount_paid": 17719.35,
+    "outstanding": 0.0,
     "memo": "Sprocket_FWF - Engineering & Permitting - Phase 3",
-    "date_paid": "2025-08-06"
+    "date_paid": "2025-08-06",
+    "bill_id": "2037"
   },
   {
-    "bill_id": "1631",
-    "date": "2025-02-14",
-    "doc_num": "5740.638",
-    "total_amt": 30230.75,
-    "balance": 0.0,
+    "bill_date": "2025-02-14",
+    "doc_number": "5740.638",
+    "total_amount": 30230.75,
+    "amount_paid": 30230.75,
+    "outstanding": 0.0,
     "memo": "Sprocket_FWF - Engineering & Permitting - Phase 2",
-    "date_paid": "2025-03-19"
+    "date_paid": "2025-03-19",
+    "bill_id": "1631"
   },
   {
-    "bill_id": "1632",
-    "date": "2025-02-14",
-    "doc_num": "5740.637",
-    "total_amt": 35640.0,
-    "balance": 0.0,
+    "bill_date": "2025-02-14",
+    "doc_number": "5740.637",
+    "total_amount": 35640.0,
+    "amount_paid": 35640.0,
+    "outstanding": 0.0,
     "memo": "Sprocket_FWF - Engineering & Permitting - Phase 2",
-    "date_paid": "2025-03-20"
+    "date_paid": "2025-03-20",
+    "bill_id": "1632"
   },
   {
-    "bill_id": "1427",
-    "date": "2024-11-18",
-    "doc_num": "5740.355",
-    "total_amt": 7153.3,
-    "balance": 0.0,
+    "bill_date": "2024-11-18",
+    "doc_number": "5740.355",
+    "total_amount": 7153.3,
+    "amount_paid": 7153.3,
+    "outstanding": 0.0,
     "memo": "Engineering Fees - Phase 1",
-    "date_paid": "2025-01-10"
+    "date_paid": "2025-01-10",
+    "bill_id": "1427"
   },
   {
-    "bill_id": "1231",
-    "date": "2024-09-09",
-    "doc_num": "5740.203",
-    "total_amt": 31607.95,
-    "balance": 0.0,
+    "bill_date": "2024-09-09",
+    "doc_number": "5740.203",
+    "total_amount": 31607.95,
+    "amount_paid": 31607.95,
+    "outstanding": 0.0,
     "memo": "Construction - Engineering Fees - Phase 1",
-    "date_paid": "2024-10-10"
+    "date_paid": "2024-10-10",
+    "bill_id": "1231"
   }
 ]
