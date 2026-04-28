@@ -61,5 +61,32 @@
     "total_paid": 0,
     "outstanding": 0,
     "latest_bill_date": null
+  },
+  {
+    "vendor": "Specialty Telecommunications Services, LLC",
+    "category": "engineering",
+    "bills_count": 1,
+    "total_billed": 40000.0,
+    "total_paid": 40000.0,
+    "outstanding": 0.0,
+    "latest_bill_date": "2025-11-24"
+  },
+  {
+    "vendor": "Brandon Henline / OSP And Design Consultants LLC",
+    "category": "management",
+    "bills_count": 16,
+    "total_billed": 142725.0,
+    "total_paid": 131725.0,
+    "outstanding": 11000.0,
+    "latest_bill_date": "2026-05-01"
+  },
+  {
+    "vendor": "NTXCOM, LLC",
+    "category": "management",
+    "bills_count": 17,
+    "total_billed": 320953.56,
+    "total_paid": 305741.32,
+    "outstanding": 0.0,
+    "latest_bill_date": "2026-04-01"
   }
 ]

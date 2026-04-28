@@ -1,0 +1,121 @@
+[
+  {
+    "bill_date": "2026-04-01",
+    "doc_num": "1132",
+    "total_amt": 16264.56,
+    "balance": 0.0,
+    "memo": "New payment request from NTXCOM - invoice 1132"
+  },
+  {
+    "bill_date": "2026-03-15",
+    "doc_num": "1131",
+    "total_amt": 16264.56,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2026-03-01",
+    "doc_num": "1127",
+    "total_amt": 16264.56,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2026-02-16",
+    "doc_num": "1122",
+    "total_amt": 8254.06,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2026-01-21",
+    "doc_num": "1119",
+    "total_amt": 10194.44,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n1/1/26-1/15/26"
+  },
+  {
+    "bill_date": "2025-12-31",
+    "doc_num": "1116",
+    "total_amt": 7983.44,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n12/1/52025 - 12/31/2025"
+  },
+  {
+    "bill_date": "2025-12-15",
+    "doc_num": "1115",
+    "total_amt": 8254.06,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n12/1/2025 - 12/15/2025"
+  },
+  {
+    "bill_date": "2025-11-15",
+    "doc_num": "1114",
+    "total_amt": 7983.44,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n11/16/2025 - 11/30/2025"
+  },
+  {
+    "bill_date": "2025-11-15",
+    "doc_num": "1113",
+    "total_amt": 8118.75,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n11/1/2025 - 11/15/2025"
+  },
+  {
+    "bill_date": "2025-10-31",
+    "doc_num": "1112",
+    "total_amt": 7983.44,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Duct Installation Supervision\n10/16/2025 - 10/31/2025"
+  },
+  {
+    "bill_date": "2025-10-15",
+    "doc_num": "1111",
+    "total_amt": 8524.69,
+    "balance": 0.0,
+    "memo": "Fort Worth Fiber Project - Fiber Backbone Phase 1\n10/1/2025 - 10/15/2025"
+  },
+  {
+    "bill_date": "2025-10-07",
+    "doc_num": "1110",
+    "total_amt": 15425.63,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2025-09-01",
+    "doc_num": "1105",
+    "total_amt": 17861.25,
+    "balance": 0.0,
+    "memo": null
+  },
+  {
+    "bill_date": "2025-08-28",
+    "doc_num": "1104",
+    "total_amt": 31550.0,
+    "balance": 0.0,
+    "memo": "Fwd: New payment request from NTXCOM - invoice 1104"
+  },
+  {
+    "bill_date": "2025-08-04",
+    "doc_num": "1100",
+    "total_amt": 17320.0,
+    "balance": 0.0,
+    "memo": "Construction - NTXCOM Project Management & Inspection Labor - July 2025"
+  },
+  {
+    "bill_date": "2025-03-27",
+    "doc_num": "1080",
+    "total_amt": 104340.0,
+    "balance": 0.0,
+    "memo": "Construction - NTXCOM / FIBERTEX - Phase 1"
+  },
+  {
+    "bill_date": "2025-03-07",
+    "doc_num": "1079",
+    "total_amt": 18366.68,
+    "balance": 0.0,
+    "memo": "Pay invoice 1079 from NTXCOM with a few clicks"
+  }
+]
