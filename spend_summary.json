@@ -29,7 +29,7 @@
     "bills_count": 46,
     "total_billed": 884233.9,
     "total_paid": 684750.79,
-    "outstanding": 199483.11,
+    "outstanding": 199483.11000000002,
     "latest_bill_date": "2026-04-27"
   },
   {
@@ -79,7 +79,7 @@
   {
     "vendor": "NTXCOM, LLC",
     "vendor_id": "93",
-    "category": "management",
+    "category": "engineering",
     "tab_suffix": "NTXCOM",
     "bills_count": 15,
     "total_billed": 198246.88,
