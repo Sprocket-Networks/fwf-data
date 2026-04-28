@@ -1,0 +1,520 @@
+[
+  {
+    "vendor_slug": "Eagle_1",
+    "invoice_count": 3,
+    "total_amount": 4500.0,
+    "unextracted_count": 0,
+    "invoices": [
+      {
+        "doc_id": "E1R-000002",
+        "filename": "Invoice #43 - Sprocket - 04_27_2026 .pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "43",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 1500.0,
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #43 - Sprocket - 04_27_2026 .pdf"
+      },
+      {
+        "doc_id": "E1R-000003",
+        "filename": "Invoice #44 - Sprocket - 04_27_2026 .pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "44",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 1500.0,
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #44 - Sprocket - 04_27_2026 .pdf"
+      },
+      {
+        "doc_id": "E1R-000004",
+        "filename": "Invoice #45 - Sprocket - 04_27_2026 .pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "45",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 1500.0,
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #45 - Sprocket - 04_27_2026 .pdf"
+      }
+    ]
+  },
+  {
+    "vendor_slug": "Hexatronic",
+    "invoice_count": 33,
+    "total_amount": 1158309.88,
+    "unextracted_count": 0,
+    "invoices": [
+      {
+        "doc_id": "HEX-000006",
+        "filename": "Sales Invoice - INV005527 - Sprocket Networks.PDF",
+        "received_date": "2026-04-27",
+        "invoice_number": "005527",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 35527.65,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005527 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000007",
+        "filename": "Sales Invoice - INV005499 - Sprocket Networks.PDF",
+        "received_date": "2026-04-27",
+        "invoice_number": "005499",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 2760.38,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005499 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000005",
+        "filename": "Sales Invoice - INV005500 - Sprocket Networks.PDF",
+        "received_date": "2026-04-27",
+        "invoice_number": "005500",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 18575.7,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005500 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000027",
+        "filename": "Sales Invoice - INV005491 - Sprocket Networks.PDF",
+        "received_date": "2026-04-23",
+        "invoice_number": "005491",
+        "invoice_date": "2026-04-23",
+        "invoice_amount": 36263.75,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005491 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000065",
+        "filename": "Sales Invoice - INV005385 - Sprocket Networks.PDF",
+        "received_date": "2026-04-16",
+        "invoice_number": "005385",
+        "invoice_date": "2026-04-16",
+        "invoice_amount": 35516.83,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005385 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000085",
+        "filename": "Sales Invoice - INV005311 - Sprocket Networks.PDF",
+        "received_date": "2026-04-09",
+        "invoice_number": "005311",
+        "invoice_date": "2026-04-09",
+        "invoice_amount": 35419.4,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005311 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000086",
+        "filename": "Sales Invoice - INV005327 - Sprocket Networks.PDF",
+        "received_date": "2026-04-09",
+        "invoice_number": "005327",
+        "invoice_date": "2026-04-09",
+        "invoice_amount": 35419.4,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005327 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000105",
+        "filename": "Sales Invoice - INV005263 - Sprocket Networks.PDF",
+        "received_date": "2026-03-31",
+        "invoice_number": "005263",
+        "invoice_date": "2026-03-31",
+        "invoice_amount": 35419.4,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005263 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000106",
+        "filename": "Sales Invoice - INV005239 - Sprocket Networks.PDF",
+        "received_date": "2026-03-31",
+        "invoice_number": "005239",
+        "invoice_date": "2026-03-30",
+        "invoice_amount": 35419.4,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005239 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000142",
+        "filename": "INV005038_Sprocket.pdf",
+        "received_date": "2026-03-11",
+        "invoice_number": "005038",
+        "invoice_date": "2026-03-11",
+        "invoice_amount": 20264.4,
+        "relative_path": "FWF/Hexatronic/invoices/INV005038_Sprocket.pdf"
+      },
+      {
+        "doc_id": "HEX-000141",
+        "filename": "INV005039_Sprocket.pdf",
+        "received_date": "2026-03-11",
+        "invoice_number": "005039",
+        "invoice_date": "2026-03-11",
+        "invoice_amount": 5932.1,
+        "relative_path": "FWF/Hexatronic/invoices/INV005039_Sprocket.pdf"
+      },
+      {
+        "doc_id": "HEX-000153",
+        "filename": "Sales Invoice - INV005008 - Sprocket Networks.PDF",
+        "received_date": "2026-03-05",
+        "invoice_number": "005008",
+        "invoice_date": "2026-03-05",
+        "invoice_amount": 937.45,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005008 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000171",
+        "filename": "2-28-26 Statement Sprocket Networks.pdf",
+        "received_date": "2026-03-02",
+        "invoice_number": "3",
+        "invoice_date": "2026-02-28",
+        "invoice_amount": 260093.42,
+        "relative_path": "FWF/Hexatronic/invoices/2-28-26 Statement Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000177",
+        "filename": "Sales Invoice - INV004942 - Sprocket Networks.PDF",
+        "received_date": "2026-02-27",
+        "invoice_number": "004942",
+        "invoice_date": "2026-02-27",
+        "invoice_amount": 5737.25,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004942 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000176",
+        "filename": "Sales Invoice - INV004971 - Sprocket Networks.PDF",
+        "received_date": "2026-02-27",
+        "invoice_number": "004971",
+        "invoice_date": "2026-02-27",
+        "invoice_amount": 44339.2,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004971 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000178",
+        "filename": "Sales Invoice - INV004941 - Sprocket Networks.PDF",
+        "received_date": "2026-02-27",
+        "invoice_number": "004941",
+        "invoice_date": "2026-02-27",
+        "invoice_amount": 36501.9,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004941 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000186",
+        "filename": "Sales Invoice - INV004822 - Sprocket Networks.PDF",
+        "received_date": "2026-02-10",
+        "invoice_number": "004822",
+        "invoice_date": "2026-02-10",
+        "invoice_amount": 14586.85,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004822 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000202",
+        "filename": "Sales Invoice - INV004816 - Sprocket Networks.PDF",
+        "received_date": "2026-02-06",
+        "invoice_number": "004816",
+        "invoice_date": "2026-02-06",
+        "invoice_amount": 429.64,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004816 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000207",
+        "filename": "1-31-26 Statement Sprocket Networks.pdf",
+        "received_date": "2026-02-02",
+        "invoice_number": "004584",
+        "invoice_date": "2026-01-31",
+        "invoice_amount": 146874.39,
+        "relative_path": "FWF/Hexatronic/invoices/1-31-26 Statement Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000212",
+        "filename": "Sales Invoice - INV004696 - Sprocket Networks.PDF",
+        "received_date": "2026-01-26",
+        "invoice_number": "004696",
+        "invoice_date": "2026-01-26",
+        "invoice_amount": 23923.25,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004696 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000228",
+        "filename": "Sales Invoice - INV004681 - Sprocket Networks.PDF",
+        "received_date": "2026-01-20",
+        "invoice_number": "004681",
+        "invoice_date": "2026-01-20",
+        "invoice_amount": 5574.88,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004681 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000229",
+        "filename": "Sales Invoice - INV004682 - Sprocket Networks.PDF",
+        "received_date": "2026-01-20",
+        "invoice_number": "004682",
+        "invoice_date": "2026-01-20",
+        "invoice_amount": 7003.78,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004682 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000230",
+        "filename": "Sales Invoice - INV004679 - Sprocket Networks.PDF",
+        "received_date": "2026-01-16",
+        "invoice_number": "004679",
+        "invoice_date": "2026-01-16",
+        "invoice_amount": 35148.78,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004679 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000231",
+        "filename": "Sales Invoice - INV004673 - Sprocket Networks.PDF",
+        "received_date": "2026-01-16",
+        "invoice_number": "004673",
+        "invoice_date": "2026-01-16",
+        "invoice_amount": 1438.64,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004673 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000244",
+        "filename": "Sales Invoice - INV004642 - Sprocket Networks.PDF",
+        "received_date": "2026-01-09",
+        "invoice_number": "004642",
+        "invoice_date": "2026-01-09",
+        "invoice_amount": 17211.75,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004642 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000243",
+        "filename": "Sales Invoice - INV004639 - Sprocket Networks.PDF",
+        "received_date": "2026-01-09",
+        "invoice_number": "004639",
+        "invoice_date": "2026-01-09",
+        "invoice_amount": 11236.35,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004639 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000261",
+        "filename": "12-31-25 Statement Sprocket Networks.pdf",
+        "received_date": "2026-01-02",
+        "invoice_number": "004462",
+        "invoice_date": "2025-12-31",
+        "invoice_amount": 75201.0,
+        "relative_path": "FWF/Hexatronic/invoices/12-31-25 Statement Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000272",
+        "filename": "Sales Invoice - INV004605 - Sprocket Networks.PDF",
+        "received_date": "2025-12-19",
+        "invoice_number": "004605",
+        "invoice_date": "2025-12-18",
+        "invoice_amount": 4006.7,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004605 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000270",
+        "filename": "Sales Invoice - INV004610 - Sprocket Networks.PDF",
+        "received_date": "2025-12-19",
+        "invoice_number": "004610",
+        "invoice_date": "2025-12-18",
+        "invoice_amount": 6359.69,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004610 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000271",
+        "filename": "Sales Invoice - INV004611 - Sprocket Networks.PDF",
+        "received_date": "2025-12-19",
+        "invoice_number": "004611",
+        "invoice_date": "2025-12-18",
+        "invoice_amount": 14083.33,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004611 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000273",
+        "filename": "Sales Invoice - INV004595 - Sprocket Networks.pdf",
+        "received_date": "2025-12-17",
+        "invoice_number": "12",
+        "invoice_date": "2025-12-17",
+        "invoice_amount": 18099.65,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004595 - Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000274",
+        "filename": "Sales Invoice - INV004584 - Sprocket Networks.pdf",
+        "received_date": "2025-12-16",
+        "invoice_number": "12",
+        "invoice_date": "2025-12-16",
+        "invoice_amount": 911.72,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004584 - Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000288",
+        "filename": "11-30-25 Statement Sprocket Networks.pdf",
+        "received_date": "2025-12-02",
+        "invoice_number": "004377",
+        "invoice_date": "2025-11-30",
+        "invoice_amount": 132091.85,
+        "relative_path": "FWF/Hexatronic/invoices/11-30-25 Statement Sprocket Networks.pdf"
+      }
+    ]
+  },
+  {
+    "vendor_slug": "LIT_Services",
+    "invoice_count": 7,
+    "total_amount": 293768.2,
+    "unextracted_count": 1,
+    "invoices": [
+      {
+        "doc_id": "LIT-000093",
+        "filename": "2026.540.pdf",
+        "received_date": "2026-04-06",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 52449.65,
+        "relative_path": "FWF/LIT_Services/invoices/2026.540.pdf"
+      },
+      {
+        "doc_id": "LIT-000094",
+        "filename": "2026.541.pdf",
+        "received_date": "2026-04-06",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 47430.9,
+        "relative_path": "FWF/LIT_Services/invoices/2026.541.pdf"
+      },
+      {
+        "doc_id": "LIT-000096",
+        "filename": "2026.539.pdf",
+        "received_date": "2026-04-06",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 24032.8,
+        "relative_path": "FWF/LIT_Services/invoices/2026.539.pdf"
+      },
+      {
+        "doc_id": "LIT-000095",
+        "filename": "2026.538.pdf",
+        "received_date": "2026-04-06",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 77061.6,
+        "relative_path": "FWF/LIT_Services/invoices/2026.538.pdf"
+      },
+      {
+        "doc_id": "LIT-000092",
+        "filename": "image.png",
+        "received_date": "2026-04-06",
+        "invoice_number": null,
+        "invoice_date": null,
+        "invoice_amount": null,
+        "relative_path": "FWF/LIT_Services/invoices/image.png"
+      },
+      {
+        "doc_id": "LIT-000203",
+        "filename": "P05 - CFW - Invoice - 2026.177.pdf",
+        "received_date": "2026-02-04",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 40886.45,
+        "relative_path": "FWF/LIT_Services/invoices/P05 - CFW - Invoice - 2026.177.pdf"
+      },
+      {
+        "doc_id": "LIT-000204",
+        "filename": "P09 - CFW - Invoice -2026.176.pdf",
+        "received_date": "2026-02-04",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 51906.8,
+        "relative_path": "FWF/LIT_Services/invoices/P09 - CFW - Invoice -2026.176.pdf"
+      }
+    ]
+  },
+  {
+    "vendor_slug": "NTXCOM",
+    "invoice_count": 11,
+    "total_amount": 106737.2,
+    "unextracted_count": 0,
+    "invoices": [
+      {
+        "doc_id": "NTX-000001",
+        "filename": "Invoice_1139_from_NTXCOM.pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "1139",
+        "invoice_date": "2026-04-15",
+        "invoice_amount": 16264.56,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1139_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000061",
+        "filename": "Invoice_1133_from_NTXCOM.pdf",
+        "received_date": "2026-04-18",
+        "invoice_number": "1133",
+        "invoice_date": "2026-04-02",
+        "invoice_amount": 1943.09,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1133_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000110",
+        "filename": "Invoice_1131_from_NTXCOM.pdf",
+        "received_date": "2026-03-27",
+        "invoice_number": "1131",
+        "invoice_date": "2026-03-15",
+        "invoice_amount": 16264.56,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1131_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000123",
+        "filename": "Invoice_1127_from_NTXCOM.pdf",
+        "received_date": "2026-03-22",
+        "invoice_number": "1127",
+        "invoice_date": "2026-03-01",
+        "invoice_amount": 16264.56,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1127_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000174",
+        "filename": "Invoice_1126_from_NTXCOM.pdf",
+        "received_date": "2026-02-28",
+        "invoice_number": "1126",
+        "invoice_date": "2026-02-27",
+        "invoice_amount": 5212.24,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1126_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000181",
+        "filename": "Invoice_1122_from_NTXCOM.pdf",
+        "received_date": "2026-02-22",
+        "invoice_number": "1122",
+        "invoice_date": "2026-02-16",
+        "invoice_amount": 8254.06,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1122_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000208",
+        "filename": "Invoice_1120_from_NTXCOM.pdf",
+        "received_date": "2026-01-31",
+        "invoice_number": "1120",
+        "invoice_date": "2026-01-30",
+        "invoice_amount": 8254.06,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1120_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000210",
+        "filename": "Invoice_1119_from_NTXCOM.pdf",
+        "received_date": "2026-01-27",
+        "invoice_number": "1119",
+        "invoice_date": "2026-01-21",
+        "invoice_amount": 10194.44,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1119_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000250",
+        "filename": "Invoice_1116_from_NTXCOM.pdf",
+        "received_date": "2026-01-06",
+        "invoice_number": "1116",
+        "invoice_date": "2025-12-31",
+        "invoice_amount": 7983.44,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1116_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000286",
+        "filename": "Invoice_1114_from_NTXCOM.pdf",
+        "received_date": "2025-12-02",
+        "invoice_number": "1114",
+        "invoice_date": "2025-11-15",
+        "invoice_amount": 7983.44,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1114_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000287",
+        "filename": "Invoice_1113_from_NTXCOM.pdf",
+        "received_date": "2025-12-02",
+        "invoice_number": "1113",
+        "invoice_date": "2025-11-15",
+        "invoice_amount": 8118.75,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1113_from_NTXCOM.pdf"
+      }
+    ]
+  }
+]
