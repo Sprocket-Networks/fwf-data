@@ -2,6 +2,7 @@
   {
     "vendor": "Sunrise Telecom Inc",
     "category": "construction",
+    "tab_suffix": "Sunrise",
     "bills_count": 3,
     "total_billed": 1925927.04,
     "total_paid": 1925927.04,
@@ -11,6 +12,7 @@
   {
     "vendor": "Jacqueline Construction",
     "category": "construction",
+    "tab_suffix": "Jacqueline",
     "bills_count": 5,
     "total_billed": 1229611.3,
     "total_paid": 1229611.3,
@@ -20,6 +22,7 @@
   {
     "vendor": "Hexatronic US Inc",
     "category": "materials",
+    "tab_suffix": "Hexatronic",
     "bills_count": 46,
     "total_billed": 884233.9,
     "total_paid": 684750.79,
@@ -29,6 +32,7 @@
   {
     "vendor": "The Galloway Group - Tyler",
     "category": "materials",
+    "tab_suffix": "Galloway",
     "bills_count": 13,
     "total_billed": 284301.38,
     "total_paid": 250913.81,
@@ -38,6 +42,7 @@
   {
     "vendor": "Channell Commercial Corporation",
     "category": "materials",
+    "tab_suffix": "Channell",
     "bills_count": 0,
     "total_billed": 0,
     "total_paid": 0,
@@ -47,6 +52,7 @@
   {
     "vendor": "LIT Services",
     "category": "engineering",
+    "tab_suffix": "LIT",
     "bills_count": 13,
     "total_billed": 281517.5,
     "total_paid": 281517.5,
@@ -56,6 +62,7 @@
   {
     "vendor": "Eagle 1 Resources",
     "category": "engineering",
+    "tab_suffix": "Eagle1",
     "bills_count": 0,
     "total_billed": 0,
     "total_paid": 0,
@@ -65,6 +72,7 @@
   {
     "vendor": "Brandon Henline / OSP And Design Consultants LLC",
     "category": "management",
+    "tab_suffix": "OSP",
     "bills_count": 16,
     "total_billed": 142725.0,
     "total_paid": 131725.0,
@@ -74,6 +82,7 @@
   {
     "vendor": "NTXCOM, LLC",
     "category": "management",
+    "tab_suffix": "NTXCOM",
     "bills_count": 17,
     "total_billed": 320953.56,
     "total_paid": 305741.32,

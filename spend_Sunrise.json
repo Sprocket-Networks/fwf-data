@@ -1,23 +1,29 @@
 [
   {
-    "bill_date": "2026-02-27",
+    "bill_id": "2887",
+    "date": "2026-02-27",
     "doc_num": "3",
     "total_amt": 497867.04,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-04-24"
   },
   {
-    "bill_date": "2026-02-10",
+    "bill_id": "2683",
+    "date": "2026-02-10",
     "doc_num": "2",
     "total_amt": 924973.44,
     "balance": 0.0,
-    "memo": "Total footage (96750) 34028 Billed 12/5/2025 HH (93) 36 Billed 12/5/2025"
+    "memo": "Total footage (96750) 34028 Billed 12/5/2025 HH (93) 36 Billed 12/5/2025",
+    "date_paid": "2026-03-30"
   },
   {
-    "bill_date": "2025-12-05",
+    "bill_id": "2567",
+    "date": "2025-12-05",
     "doc_num": "TXSPROCKET1-P1",
     "total_amt": 503086.56,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-01-15"
   }
 ]

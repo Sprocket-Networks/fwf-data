@@ -1,37 +1,47 @@
 [
   {
-    "bill_date": "2026-04-17",
+    "bill_id": "2930",
+    "date": "2026-04-17",
     "doc_num": "Multiple",
     "total_amt": 320190.08,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-04-17"
   },
   {
-    "bill_date": "2026-04-03",
+    "bill_id": "2921",
+    "date": "2026-04-03",
     "doc_num": "Multiple",
     "total_amt": 549335.92,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-04-15"
   },
   {
-    "bill_date": "2026-03-24",
+    "bill_id": "2819",
+    "date": "2026-03-24",
     "doc_num": "Multiple",
     "total_amt": 321890.8,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-04-01"
   },
   {
-    "bill_date": "2025-07-28",
+    "bill_id": "2316",
+    "date": "2025-07-28",
     "doc_num": "1547",
     "total_amt": 35639.5,
     "balance": 0.0,
-    "memo": "FW: FWF CBD Proofing, Rodding and Butterflies"
+    "memo": "FW: FWF CBD Proofing, Rodding and Butterflies",
+    "date_paid": "2025-11-07"
   },
   {
-    "bill_date": "2025-06-05",
+    "bill_id": "2317",
+    "date": "2025-06-05",
     "doc_num": "1544",
     "total_amt": 2555.0,
     "balance": 0.0,
-    "memo": "2220 Canton St (215 Henry St) - Splicing"
+    "memo": "2220 Canton St (215 Henry St) - Splicing",
+    "date_paid": "2025-11-07"
   }
 ]

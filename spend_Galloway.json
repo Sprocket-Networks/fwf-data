@@ -1,93 +1,119 @@
 [
   {
-    "bill_date": "2026-04-07",
+    "bill_id": "2902",
+    "date": "2026-04-07",
     "doc_num": "030272",
     "total_amt": 33387.57,
     "balance": 33387.57,
-    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 2/11/2026 to Sunrise\n60 EA delivered 3/12/2026 to Jacquline\n60 EA delivered 3/30/26 to Jacqueline\n60 EA delivered 4/6/26 to Sunrise"
+    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 2/11/2026 to Sunrise\n60 EA delivered 3/12/2026 to Jacquline\n60 EA delivered 3/30/26 to Jacqueline\n60 EA delivered 4/6/26 to Sunrise",
+    "date_paid": null
   },
   {
-    "bill_date": "2026-03-31",
+    "bill_id": "2811",
+    "date": "2026-03-31",
     "doc_num": "029535",
     "total_amt": 33439.74,
     "balance": 0.0,
-    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 2/11/2026 to Sunrise\n60 EA delivered 2/12/2026 to Jacquline\n60 EA delivered 3/30/27 to Jacqueline"
+    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 2/11/2026 to Sunrise\n60 EA delivered 2/12/2026 to Jacquline\n60 EA delivered 3/30/27 to Jacqueline",
+    "date_paid": "2026-04-22"
   },
   {
-    "bill_date": "2026-03-20",
+    "bill_id": "2805",
+    "date": "2026-03-20",
     "doc_num": "027510",
     "total_amt": 33441.69,
     "balance": 0.0,
-    "memo": "60 EA Delivered 3/20/26 to Jacqueline"
+    "memo": "60 EA Delivered 3/20/26 to Jacqueline",
+    "date_paid": "2026-04-06"
   },
   {
-    "bill_date": "2026-03-12",
+    "bill_id": "2803",
+    "date": "2026-03-12",
     "doc_num": "027643",
     "total_amt": 33387.57,
     "balance": 0.0,
-    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 3/11/2026 to Sunrise\n60 EA delivered 3/12/2026 to Jacquline"
+    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 3/11/2026 to Sunrise\n60 EA delivered 3/12/2026 to Jacquline",
+    "date_paid": "2026-03-25"
   },
   {
-    "bill_date": "2026-02-06",
+    "bill_id": "2667",
+    "date": "2026-02-06",
     "doc_num": "024862",
     "total_amt": 1347.73,
     "balance": 0.0,
-    "memo": "Initial 2026 Delivery of  60 EA Delivered 2/6/2026"
+    "memo": "Initial 2026 Delivery of  60 EA Delivered 2/6/2026",
+    "date_paid": "2026-03-02"
   },
   {
-    "bill_date": "2026-02-06",
+    "bill_id": "2666",
+    "date": "2026-02-06",
     "doc_num": "024861",
     "total_amt": 32039.84,
     "balance": 0.0,
-    "memo": "Initial 2026 Delivery of  60 EA delivered 2/6/2026"
+    "memo": "Initial 2026 Delivery of  60 EA delivered 2/6/2026",
+    "date_paid": "2026-03-02"
   },
   {
-    "bill_date": "2026-02-06",
+    "bill_id": "2663",
+    "date": "2026-02-06",
     "doc_num": "024654",
     "total_amt": 26666.91,
     "balance": 0.0,
-    "memo": "4\" SDR 11 Conduit for TxDot Crossings"
+    "memo": "4\" SDR 11 Conduit for TxDot Crossings",
+    "date_paid": "2026-02-06"
   },
   {
-    "bill_date": "2026-01-16",
+    "bill_id": "2618",
+    "date": "2026-01-16",
     "doc_num": "022631",
     "total_amt": 1230.82,
     "balance": 0.0,
-    "memo": "Delivered  - 1-9-26 Rods and clamps\nOriginal PO used was KG1/7\nPd KG Sprocket Amex 1/23/26 CC Receipt attached"
+    "memo": "Delivered  - 1-9-26 Rods and clamps\nOriginal PO used was KG1/7\nPd KG Sprocket Amex 1/23/26 CC Receipt attached",
+    "date_paid": "2026-01-23"
   },
   {
-    "bill_date": "2026-01-08",
+    "bill_id": "2561",
+    "date": "2026-01-08",
     "doc_num": "022511",
     "total_amt": 33611.63,
     "balance": 0.0,
-    "memo": "Pd KG Sprocket Plat Amex 1/23/26. Receipt is attached.\n\nPO 1035"
+    "memo": "Pd KG Sprocket Plat Amex 1/23/26. Receipt is attached.\n\nPO 1035",
+    "date_paid": "2026-01-23"
   },
   {
-    "bill_date": "2025-12-05",
+    "bill_id": "2384",
+    "date": "2025-12-05",
     "doc_num": "744047238049",
     "total_amt": 27873.94,
     "balance": 0.0,
-    "memo": "Pd on Citibank MC 1635 - KG 12-5-25\nDelivery PoD is in attachments. Delivered 12/9/25."
+    "memo": "Pd on Citibank MC 1635 - KG 12-5-25\nDelivery PoD is in attachments. Delivered 12/9/25.",
+    "date_paid": "2025-12-05"
   },
   {
-    "bill_date": "2025-08-14",
+    "bill_id": "2109",
+    "date": "2025-08-14",
     "doc_num": "011821",
     "total_amt": 88.33,
     "balance": 0.0,
-    "memo": "Pd on Sprocket Plat Amex - KG.\nETA for delivery - 8/15/25 or prior."
+    "memo": "Pd on Sprocket Plat Amex - KG.\nETA for delivery - 8/15/25 or prior.",
+    "date_paid": "2025-08-14"
   },
   {
-    "bill_date": "2025-08-14",
+    "bill_id": "2115",
+    "date": "2025-08-14",
     "doc_num": "011635",
     "total_amt": 896.31,
     "balance": 0.0,
-    "memo": "Pd on Sprocket Plat Amex - KG.\nETA for delivery - 8/15/25 or prior."
+    "memo": "Pd on Sprocket Plat Amex - KG.\nETA for delivery - 8/15/25 or prior.",
+    "date_paid": "2025-08-14"
   },
   {
-    "bill_date": "2025-08-07",
+    "bill_id": "2112",
+    "date": "2025-08-07",
     "doc_num": "011633",
     "total_amt": 26889.3,
     "balance": 0.0,
-    "memo": "Pd on Sprocket KG Amex- Receipt attached.\nETA - 8/15/25 or prior."
+    "memo": "Pd on Sprocket KG Amex- Receipt attached.\nETA - 8/15/25 or prior.",
+    "date_paid": "2025-08-07"
   }
 ]

@@ -1,114 +1,146 @@
 [
   {
-    "bill_date": "2026-05-01",
+    "bill_id": "2932",
+    "date": "2026-05-01",
     "doc_num": "04/2026",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-05-11"
   },
   {
-    "bill_date": "2026-04-01",
+    "bill_id": "2820",
+    "date": "2026-04-01",
     "doc_num": "INV# 03/2026",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": null
+    "memo": null,
+    "date_paid": "2026-04-10"
   },
   {
-    "bill_date": "2026-03-03",
+    "bill_id": "2700",
+    "date": "2026-03-03",
     "doc_num": "INV# 02/2026",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": "CFW Fiber Project - Director of Construction-Field construction management support"
+    "memo": "CFW Fiber Project - Director of Construction-Field construction management support",
+    "date_paid": "2026-03-09"
   },
   {
-    "bill_date": "2026-02-03",
+    "bill_id": "2672",
+    "date": "2026-02-03",
     "doc_num": "INV# 01/2026",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": "CFW Fiber Project - Director of Construction-Field construction management support"
+    "memo": "CFW Fiber Project - Director of Construction-Field construction management support",
+    "date_paid": "2026-02-17"
   },
   {
-    "bill_date": "2026-01-05",
+    "bill_id": "2564",
+    "date": "2026-01-05",
     "doc_num": "1220",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": "Monthly Invoice"
+    "memo": "Monthly Invoice",
+    "date_paid": "2026-01-12"
   },
   {
-    "bill_date": "2025-12-03",
+    "bill_id": "2376",
+    "date": "2025-12-03",
     "doc_num": "1120",
     "total_amt": 11000.0,
     "balance": 0.0,
-    "memo": "CFW Fiber Project - Director of Construction-Field construction management support"
+    "memo": "CFW Fiber Project - Director of Construction-Field construction management support",
+    "date_paid": "2025-12-15"
   },
   {
-    "bill_date": "2025-11-19",
+    "bill_id": "2357",
+    "date": "2025-11-19",
     "doc_num": "1020",
     "total_amt": 9515.0,
     "balance": 0.0,
-    "memo": "CFW Fiber Project - Director of Construction-Field construction management support"
+    "memo": "CFW Fiber Project - Director of Construction-Field construction management support",
+    "date_paid": "2025-11-19"
   },
   {
-    "bill_date": "2025-10-09",
+    "bill_id": "2253",
+    "date": "2025-10-09",
     "doc_num": "0920",
     "total_amt": 8470.0,
     "balance": 0.0,
-    "memo": "Fwd: September Invoice"
+    "memo": "Fwd: September Invoice",
+    "date_paid": "2025-10-14"
   },
   {
-    "bill_date": "2025-09-02",
+    "bill_id": "2167",
+    "date": "2025-09-02",
     "doc_num": "0820",
     "total_amt": 8800.0,
     "balance": 0.0,
-    "memo": "Fwd: July and August Invoice"
+    "memo": "Fwd: July and August Invoice",
+    "date_paid": "2025-09-12"
   },
   {
-    "bill_date": "2025-09-02",
+    "bill_id": "2166",
+    "date": "2025-09-02",
     "doc_num": "0720",
     "total_amt": 8635.0,
     "balance": 0.0,
-    "memo": "Fwd: July and August Invoice"
+    "memo": "Fwd: July and August Invoice",
+    "date_paid": "2025-09-12"
   },
   {
-    "bill_date": "2025-07-08",
+    "bill_id": "1976",
+    "date": "2025-07-08",
     "doc_num": "0620",
     "total_amt": 8112.5,
     "balance": 0.0,
-    "memo": "Fwd: June Timesheet"
+    "memo": "Fwd: June Timesheet",
+    "date_paid": "2025-07-21"
   },
   {
-    "bill_date": "2025-06-23",
+    "bill_id": "1897",
+    "date": "2025-06-23",
     "doc_num": "202506.01",
     "total_amt": 7480.0,
     "balance": 0.0,
-    "memo": "OSP Construction Management"
+    "memo": "OSP Construction Management",
+    "date_paid": "2025-06-23"
   },
   {
-    "bill_date": "2025-05-22",
+    "bill_id": "1812",
+    "date": "2025-05-22",
     "doc_num": "20250522",
     "total_amt": 7672.5,
     "balance": 0.0,
-    "memo": "OSP Construction Management"
+    "memo": "OSP Construction Management",
+    "date_paid": "2025-05-23"
   },
   {
-    "bill_date": "2025-04-01",
+    "bill_id": "1724",
+    "date": "2025-04-01",
     "doc_num": "2025-03-31",
     "total_amt": 2282.5,
     "balance": 0.0,
-    "memo": "OSP Construction Management"
+    "memo": "OSP Construction Management",
+    "date_paid": "2025-04-30"
   },
   {
-    "bill_date": "2025-03-29",
+    "bill_id": "1682",
+    "date": "2025-03-29",
     "doc_num": "202503.01",
     "total_amt": 4757.5,
     "balance": 0.0,
-    "memo": "OSP Construction Management"
+    "memo": "OSP Construction Management",
+    "date_paid": "2025-03-31"
   },
   {
-    "bill_date": "2022-12-02",
+    "bill_id": "2375",
+    "date": "2022-12-02",
     "doc_num": "1120",
     "total_amt": 11000.0,
     "balance": 11000.0,
-    "memo": "Monthly Invoice"
+    "memo": "Monthly Invoice",
+    "date_paid": null
   }
 ]
