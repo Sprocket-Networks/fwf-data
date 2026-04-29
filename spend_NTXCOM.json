@@ -4,7 +4,16 @@
     "date": "2026-04-29",
     "doc_num": "1139",
     "total_amt": 16264.56,
-    "balance": 16264.56,
+    "balance": 0.0,
+    "memo": null,
+    "date_paid": "2026-04-29"
+  },
+  {
+    "bill_id": "3040",
+    "date": "2026-04-02",
+    "doc_num": "1133",
+    "total_amt": 1943.09,
+    "balance": 1943.09,
     "memo": null,
     "date_paid": null
   },

@@ -1,5 +1,14 @@
 [
   {
+    "bill_id": "3048",
+    "date": "2026-04-07",
+    "doc_num": "4",
+    "total_amt": 292785.2,
+    "balance": 292785.2,
+    "memo": null,
+    "date_paid": null
+  },
+  {
     "bill_id": "2887",
     "date": "2026-02-27",
     "doc_num": "3",

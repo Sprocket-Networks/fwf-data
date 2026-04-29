@@ -1,11 +1,11 @@
 [
   {
-    "run_at": "2026-04-29T17:08:03.953174+00:00",
+    "run_at": "2026-04-29T22:00:14.121091+00:00",
     "status": "WARNING",
     "sources_read": [
       "2026-04-28__Sprocket Tracker.xlsx",
       "2026-04-29__Sprocket Tracker - Jacqueline - 4_28_2026 2.xlsx"
     ],
-    "rows_written": 259
+    "rows_written": 262
   }
 ]

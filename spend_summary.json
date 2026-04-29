@@ -3,11 +3,11 @@
     "vendor": "Sunrise Telecom Inc",
     "category": "construction",
     "tab_suffix": "Sunrise",
-    "bills_count": 3,
-    "total_billed": 1925927.04,
+    "bills_count": 4,
+    "total_billed": 2218712.24,
     "total_paid": 1925927.04,
-    "outstanding": 0.0,
-    "latest_bill_date": "2026-02-27"
+    "outstanding": 292785.2,
+    "latest_bill_date": "2026-04-07"
   },
   {
     "vendor": "Jacqueline Construction",
@@ -23,10 +23,10 @@
     "vendor": "Hexatronic US Inc",
     "category": "materials",
     "tab_suffix": "Hexatronic",
-    "bills_count": 46,
-    "total_billed": 884233.9,
+    "bills_count": 47,
+    "total_billed": 919750.73,
     "total_paid": 684750.79,
-    "outstanding": 199483.11,
+    "outstanding": 234999.94,
     "latest_bill_date": "2026-04-27"
   },
   {
@@ -83,10 +83,10 @@
     "vendor": "NTXCOM, LLC",
     "category": "management",
     "tab_suffix": "NTXCOM",
-    "bills_count": 16,
-    "total_billed": 214511.44,
-    "total_paid": 183034.64,
-    "outstanding": 16264.56,
+    "bills_count": 17,
+    "total_billed": 216454.53,
+    "total_paid": 199299.2,
+    "outstanding": 1943.09,
     "latest_bill_date": "2026-04-29"
   }
 ]
