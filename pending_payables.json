@@ -6,24 +6,6 @@
     "unextracted_count": 0,
     "invoices": [
       {
-        "doc_id": "E1R-000002",
-        "filename": "Invoice #43 - Sprocket - 04_27_2026 .pdf",
-        "received_date": "2026-04-28",
-        "invoice_number": "43",
-        "invoice_date": "2026-04-27",
-        "invoice_amount": 1500.0,
-        "relative_path": "FWF/Eagle_1/invoices/Invoice #43 - Sprocket - 04_27_2026 .pdf"
-      },
-      {
-        "doc_id": "E1R-003033",
-        "filename": "Invoice #47 - Sprocket - 04_28_2026 .pdf",
-        "received_date": "2026-04-28",
-        "invoice_number": "47",
-        "invoice_date": "2026-04-28",
-        "invoice_amount": 1500.0,
-        "relative_path": "FWF/Eagle_1/invoices/Invoice #47 - Sprocket - 04_28_2026 .pdf"
-      },
-      {
         "doc_id": "E1R-003032",
         "filename": "Invoice #46 - Sprocket - 04_28_2026 .pdf",
         "received_date": "2026-04-28",
@@ -31,6 +13,24 @@
         "invoice_date": "2026-04-28",
         "invoice_amount": 1500.0,
         "relative_path": "FWF/Eagle_1/invoices/Invoice #46 - Sprocket - 04_28_2026 .pdf"
+      },
+      {
+        "doc_id": "E1R-000003",
+        "filename": "Invoice #44 - Sprocket - 04_27_2026 .pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "44",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 1500.0,
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #44 - Sprocket - 04_27_2026 .pdf"
+      },
+      {
+        "doc_id": "E1R-000002",
+        "filename": "Invoice #43 - Sprocket - 04_27_2026 .pdf",
+        "received_date": "2026-04-28",
+        "invoice_number": "43",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 1500.0,
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #43 - Sprocket - 04_27_2026 .pdf"
       },
       {
         "doc_id": "E1R-000004",
@@ -42,13 +42,13 @@
         "relative_path": "FWF/Eagle_1/invoices/Invoice #45 - Sprocket - 04_27_2026 .pdf"
       },
       {
-        "doc_id": "E1R-000003",
-        "filename": "Invoice #44 - Sprocket - 04_27_2026 .pdf",
+        "doc_id": "E1R-003033",
+        "filename": "Invoice #47 - Sprocket - 04_28_2026 .pdf",
         "received_date": "2026-04-28",
-        "invoice_number": "44",
-        "invoice_date": "2026-04-27",
+        "invoice_number": "47",
+        "invoice_date": "2026-04-28",
         "invoice_amount": 1500.0,
-        "relative_path": "FWF/Eagle_1/invoices/Invoice #44 - Sprocket - 04_27_2026 .pdf"
+        "relative_path": "FWF/Eagle_1/invoices/Invoice #47 - Sprocket - 04_28_2026 .pdf"
       }
     ]
   },
@@ -58,6 +58,15 @@
     "total_amount": 1158309.88,
     "unextracted_count": 0,
     "invoices": [
+      {
+        "doc_id": "HEX-000005",
+        "filename": "Sales Invoice - INV005500 - Sprocket Networks.PDF",
+        "received_date": "2026-04-27",
+        "invoice_number": "005500",
+        "invoice_date": "2026-04-27",
+        "invoice_amount": 18575.7,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005500 - Sprocket Networks.PDF"
+      },
       {
         "doc_id": "HEX-000007",
         "filename": "Sales Invoice - INV005499 - Sprocket Networks.PDF",
@@ -75,15 +84,6 @@
         "invoice_date": "2026-04-27",
         "invoice_amount": 35527.65,
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005527 - Sprocket Networks.PDF"
-      },
-      {
-        "doc_id": "HEX-000005",
-        "filename": "Sales Invoice - INV005500 - Sprocket Networks.PDF",
-        "received_date": "2026-04-27",
-        "invoice_number": "005500",
-        "invoice_date": "2026-04-27",
-        "invoice_amount": 18575.7,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005500 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000027",
@@ -122,15 +122,6 @@
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005327 - Sprocket Networks.PDF"
       },
       {
-        "doc_id": "HEX-000105",
-        "filename": "Sales Invoice - INV005263 - Sprocket Networks.PDF",
-        "received_date": "2026-03-31",
-        "invoice_number": "005263",
-        "invoice_date": "2026-03-31",
-        "invoice_amount": 35419.4,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005263 - Sprocket Networks.PDF"
-      },
-      {
         "doc_id": "HEX-000106",
         "filename": "Sales Invoice - INV005239 - Sprocket Networks.PDF",
         "received_date": "2026-03-31",
@@ -138,6 +129,15 @@
         "invoice_date": "2026-03-30",
         "invoice_amount": 35419.4,
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005239 - Sprocket Networks.PDF"
+      },
+      {
+        "doc_id": "HEX-000105",
+        "filename": "Sales Invoice - INV005263 - Sprocket Networks.PDF",
+        "received_date": "2026-03-31",
+        "invoice_number": "005263",
+        "invoice_date": "2026-03-31",
+        "invoice_amount": 35419.4,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV005263 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000142",
@@ -176,13 +176,13 @@
         "relative_path": "FWF/Hexatronic/invoices/2-28-26 Statement Sprocket Networks.pdf"
       },
       {
-        "doc_id": "HEX-000176",
-        "filename": "Sales Invoice - INV004971 - Sprocket Networks.PDF",
+        "doc_id": "HEX-000177",
+        "filename": "Sales Invoice - INV004942 - Sprocket Networks.PDF",
         "received_date": "2026-02-27",
-        "invoice_number": "004971",
+        "invoice_number": "004942",
         "invoice_date": "2026-02-27",
-        "invoice_amount": 44339.2,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004971 - Sprocket Networks.PDF"
+        "invoice_amount": 5737.25,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004942 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000178",
@@ -194,13 +194,13 @@
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004941 - Sprocket Networks.PDF"
       },
       {
-        "doc_id": "HEX-000177",
-        "filename": "Sales Invoice - INV004942 - Sprocket Networks.PDF",
+        "doc_id": "HEX-000176",
+        "filename": "Sales Invoice - INV004971 - Sprocket Networks.PDF",
         "received_date": "2026-02-27",
-        "invoice_number": "004942",
+        "invoice_number": "004971",
         "invoice_date": "2026-02-27",
-        "invoice_amount": 5737.25,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004942 - Sprocket Networks.PDF"
+        "invoice_amount": 44339.2,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004971 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000186",
@@ -275,15 +275,6 @@
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004673 - Sprocket Networks.PDF"
       },
       {
-        "doc_id": "HEX-000243",
-        "filename": "Sales Invoice - INV004639 - Sprocket Networks.PDF",
-        "received_date": "2026-01-09",
-        "invoice_number": "004639",
-        "invoice_date": "2026-01-09",
-        "invoice_amount": 11236.35,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004639 - Sprocket Networks.PDF"
-      },
-      {
         "doc_id": "HEX-000244",
         "filename": "Sales Invoice - INV004642 - Sprocket Networks.PDF",
         "received_date": "2026-01-09",
@@ -293,6 +284,15 @@
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004642 - Sprocket Networks.PDF"
       },
       {
+        "doc_id": "HEX-000243",
+        "filename": "Sales Invoice - INV004639 - Sprocket Networks.PDF",
+        "received_date": "2026-01-09",
+        "invoice_number": "004639",
+        "invoice_date": "2026-01-09",
+        "invoice_amount": 11236.35,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004639 - Sprocket Networks.PDF"
+      },
+      {
         "doc_id": "HEX-000261",
         "filename": "12-31-25 Statement Sprocket Networks.pdf",
         "received_date": "2026-01-02",
@@ -300,6 +300,15 @@
         "invoice_date": "2025-12-31",
         "invoice_amount": 75201.0,
         "relative_path": "FWF/Hexatronic/invoices/12-31-25 Statement Sprocket Networks.pdf"
+      },
+      {
+        "doc_id": "HEX-000272",
+        "filename": "Sales Invoice - INV004605 - Sprocket Networks.PDF",
+        "received_date": "2025-12-19",
+        "invoice_number": "004605",
+        "invoice_date": "2025-12-18",
+        "invoice_amount": 4006.7,
+        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004605 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000271",
@@ -318,15 +327,6 @@
         "invoice_date": "2025-12-18",
         "invoice_amount": 6359.69,
         "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004610 - Sprocket Networks.PDF"
-      },
-      {
-        "doc_id": "HEX-000272",
-        "filename": "Sales Invoice - INV004605 - Sprocket Networks.PDF",
-        "received_date": "2025-12-19",
-        "invoice_number": "004605",
-        "invoice_date": "2025-12-18",
-        "invoice_amount": 4006.7,
-        "relative_path": "FWF/Hexatronic/invoices/Sales Invoice - INV004605 - Sprocket Networks.PDF"
       },
       {
         "doc_id": "HEX-000273",
@@ -364,15 +364,6 @@
     "unextracted_count": 2,
     "invoices": [
       {
-        "doc_id": "UNK-000009",
-        "filename": "Combined Invoice 04-24-26 Sprocket.pdf",
-        "received_date": "2026-04-27",
-        "invoice_number": "UT26-01035/82/07/02074/02080",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 143094.6,
-        "relative_path": "FWF/_unmatched/invoices/Combined Invoice 04-24-26 Sprocket.pdf"
-      },
-      {
         "doc_id": "JAC-004063",
         "filename": "Combined Invoice 04-24-26 Sprocket.pdf",
         "received_date": "2026-04-27",
@@ -382,58 +373,22 @@
         "relative_path": "FWF/Jacqueline_Construction/invoices/Combined Invoice 04-24-26 Sprocket.pdf"
       },
       {
-        "doc_id": "UNK-000016",
-        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-01035-04",
+        "doc_id": "UNK-000009",
+        "filename": "Combined Invoice 04-24-26 Sprocket.pdf",
+        "received_date": "2026-04-27",
+        "invoice_number": "UT26-01035/82/07/02074/02080",
         "invoice_date": "2026-04-24",
-        "invoice_amount": 14520.0,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
+        "invoice_amount": 143094.6,
+        "relative_path": "FWF/_unmatched/invoices/Combined Invoice 04-24-26 Sprocket.pdf"
       },
       {
-        "doc_id": "JAC-004073",
-        "filename": "Invoice# UT26-01007-02 Police Mounted Vegas.pdf",
+        "doc_id": "JAC-004064",
+        "filename": "Invoice# UT26-02074-02 P06-CP01-Backbone.pdf",
         "received_date": "2026-04-24",
-        "invoice_number": "UT26-01007-02",
+        "invoice_number": "UT26-02074-02",
         "invoice_date": "2026-04-24",
-        "invoice_amount": 59662.68,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01007-02 Police Mounted Vegas.pdf"
-      },
-      {
-        "doc_id": "UNK-000019",
-        "filename": "Invoice# UT26-01007-02 Police Mounted Vegas.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-01007-02",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 59662.68,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01007-02 Police Mounted Vegas.pdf"
-      },
-      {
-        "doc_id": "UNK-000022",
-        "filename": "Invoice# UT26-02080-01 P06-CP01 Worth Heights CC.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-02080-01",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 12037.08,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-02080-01 P06-CP01 Worth Heights CC.pdf"
-      },
-      {
-        "doc_id": "JAC-004070",
-        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-01035-04",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 14520.0,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
-      },
-      {
-        "doc_id": "UNK-000013",
-        "filename": "Invoice# UT26-01028-03 Marshall Lake Surfside.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-01028-03",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 885.72,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01028-03 Marshall Lake Surfside.pdf"
+        "invoice_amount": 55989.12,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02074-02 P06-CP01-Backbone.pdf"
       },
       {
         "doc_id": "UNK-000010",
@@ -454,13 +409,31 @@
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01028-03 Marshall Lake Surfside.pdf"
       },
       {
-        "doc_id": "JAC-004064",
-        "filename": "Invoice# UT26-02074-02 P06-CP01-Backbone.pdf",
+        "doc_id": "UNK-000016",
+        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
         "received_date": "2026-04-24",
-        "invoice_number": "UT26-02074-02",
+        "invoice_number": "UT26-01035-04",
         "invoice_date": "2026-04-24",
-        "invoice_amount": 55989.12,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02074-02 P06-CP01-Backbone.pdf"
+        "invoice_amount": 14520.0,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
+      },
+      {
+        "doc_id": "JAC-004070",
+        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-01035-04",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 14520.0,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
+      },
+      {
+        "doc_id": "JAC-004073",
+        "filename": "Invoice# UT26-01007-02 Police Mounted Vegas.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-01007-02",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 59662.68,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01007-02 Police Mounted Vegas.pdf"
       },
       {
         "doc_id": "JAC-004076",
@@ -472,103 +445,31 @@
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02080-01 P06-CP01 Worth Heights CC.pdf"
       },
       {
-        "doc_id": "JAC-004098",
-        "filename": "Invoice# UT26-01085-02 Eagle Mountain Dam.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01085-02",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 17424.0,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01085-02 Eagle Mountain Dam.pdf"
+        "doc_id": "UNK-000019",
+        "filename": "Invoice# UT26-01007-02 Police Mounted Vegas.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-01007-02",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 59662.68,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01007-02 Police Mounted Vegas.pdf"
       },
       {
-        "doc_id": "UNK-000058",
-        "filename": "Combined Invoice 04-10 & 04-17-26 Sprocket.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01035/82/84/85/972/28/02074/01007",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 320190.08,
-        "relative_path": "FWF/_unmatched/invoices/Combined Invoice 04-10 & 04-17-26 Sprocket.pdf"
+        "doc_id": "UNK-000022",
+        "filename": "Invoice# UT26-02080-01 P06-CP01 Worth Heights CC.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-02080-01",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 12037.08,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-02080-01 P06-CP01 Worth Heights CC.pdf"
       },
       {
-        "doc_id": "UNK-000040",
-        "filename": "Invoice# UT26-01084-01 Eagle Mountain Pump.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01084-01",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 20185.96,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01084-01 Eagle Mountain Pump.pdf"
-      },
-      {
-        "doc_id": "UNK-000052",
-        "filename": "Invoice# UT26-02074-01 P06-CP01-Backbone.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-02074-01",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 14824.92,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-02074-01 P06-CP01-Backbone.pdf"
-      },
-      {
-        "doc_id": "UNK-000057",
-        "filename": "Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01082-03",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 28812.12,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf"
-      },
-      {
-        "doc_id": "JAC-004110",
-        "filename": "Combined Invoice 04-10 & 04-17-26 Sprocket.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01035/82/84/85/972/28/02074/01007",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 320190.08,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Combined Invoice 04-10 & 04-17-26 Sprocket.pdf"
-      },
-      {
-        "doc_id": "JAC-004095",
-        "filename": "Invoice# UT26-01035-03 8901 Jacksboro.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": null,
-        "invoice_date": null,
-        "invoice_amount": null,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01035-03 8901 Jacksboro.pdf"
-      },
-      {
-        "doc_id": "UNK-000049",
-        "filename": "Invoice# UT26-00972-02 825 Silver Creek.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-00972-02",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 78667.48,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-00972-02 825 Silver Creek.pdf"
-      },
-      {
-        "doc_id": "UNK-000037",
-        "filename": "Invoice# UT26-01007-01 Police Mounted Vegas.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01007-01",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 24016.08,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01007-01 Police Mounted Vegas.pdf"
-      },
-      {
-        "doc_id": "JAC-004109",
-        "filename": "Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-01082-03",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 28812.12,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf"
-      },
-      {
-        "doc_id": "JAC-004104",
-        "filename": "Invoice# UT26-02074-01 P06-CP01-Backbone.pdf",
-        "received_date": "2026-04-20",
-        "invoice_number": "UT26-02074-01",
-        "invoice_date": "2026-04-17",
-        "invoice_amount": 14824.92,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02074-01 P06-CP01-Backbone.pdf"
+        "doc_id": "UNK-000013",
+        "filename": "Invoice# UT26-01028-03 Marshall Lake Surfside.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-01028-03",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 885.72,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01028-03 Marshall Lake Surfside.pdf"
       },
       {
         "doc_id": "UNK-000043",
@@ -580,6 +481,51 @@
         "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01035-03 8901 Jacksboro.pdf"
       },
       {
+        "doc_id": "UNK-000046",
+        "filename": "Invoice# UT26-01085-02 Eagle Mountain Dam.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01085-02",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 17424.0,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01085-02 Eagle Mountain Dam.pdf"
+      },
+      {
+        "doc_id": "JAC-004110",
+        "filename": "Combined Invoice 04-10 & 04-17-26 Sprocket.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01035/82/84/85/972/28/02074/01007",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 320190.08,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Combined Invoice 04-10 & 04-17-26 Sprocket.pdf"
+      },
+      {
+        "doc_id": "UNK-000058",
+        "filename": "Combined Invoice 04-10 & 04-17-26 Sprocket.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01035/82/84/85/972/28/02074/01007",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 320190.08,
+        "relative_path": "FWF/_unmatched/invoices/Combined Invoice 04-10 & 04-17-26 Sprocket.pdf"
+      },
+      {
+        "doc_id": "UNK-000052",
+        "filename": "Invoice# UT26-02074-01 P06-CP01-Backbone.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-02074-01",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 14824.92,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-02074-01 P06-CP01-Backbone.pdf"
+      },
+      {
+        "doc_id": "UNK-000037",
+        "filename": "Invoice# UT26-01007-01 Police Mounted Vegas.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01007-01",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 24016.08,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01007-01 Police Mounted Vegas.pdf"
+      },
+      {
         "doc_id": "JAC-004101",
         "filename": "Invoice# UT26-00972-02 825 Silver Creek.pdf",
         "received_date": "2026-04-20",
@@ -587,6 +533,33 @@
         "invoice_date": "2026-04-17",
         "invoice_amount": 78667.48,
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-00972-02 825 Silver Creek.pdf"
+      },
+      {
+        "doc_id": "JAC-004098",
+        "filename": "Invoice# UT26-01085-02 Eagle Mountain Dam.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01085-02",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 17424.0,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01085-02 Eagle Mountain Dam.pdf"
+      },
+      {
+        "doc_id": "UNK-000049",
+        "filename": "Invoice# UT26-00972-02 825 Silver Creek.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-00972-02",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 78667.48,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-00972-02 825 Silver Creek.pdf"
+      },
+      {
+        "doc_id": "JAC-004095",
+        "filename": "Invoice# UT26-01035-03 8901 Jacksboro.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": null,
+        "invoice_date": null,
+        "invoice_amount": null,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01035-03 8901 Jacksboro.pdf"
       },
       {
         "doc_id": "JAC-004092",
@@ -607,13 +580,40 @@
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01007-01 Police Mounted Vegas.pdf"
       },
       {
-        "doc_id": "UNK-000046",
-        "filename": "Invoice# UT26-01085-02 Eagle Mountain Dam.pdf",
+        "doc_id": "JAC-004109",
+        "filename": "Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf",
         "received_date": "2026-04-20",
-        "invoice_number": "UT26-01085-02",
+        "invoice_number": "UT26-01082-03",
         "invoice_date": "2026-04-17",
-        "invoice_amount": 17424.0,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01085-02 Eagle Mountain Dam.pdf"
+        "invoice_amount": 28812.12,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf"
+      },
+      {
+        "doc_id": "JAC-004104",
+        "filename": "Invoice# UT26-02074-01 P06-CP01-Backbone.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-02074-01",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 14824.92,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02074-01 P06-CP01-Backbone.pdf"
+      },
+      {
+        "doc_id": "UNK-000057",
+        "filename": "Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01082-03",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 28812.12,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01082-03-Backbone 7400 Hanger.pdf"
+      },
+      {
+        "doc_id": "UNK-000040",
+        "filename": "Invoice# UT26-01084-01 Eagle Mountain Pump.pdf",
+        "received_date": "2026-04-20",
+        "invoice_number": "UT26-01084-01",
+        "invoice_date": "2026-04-17",
+        "invoice_amount": 20185.96,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01084-01 Eagle Mountain Pump.pdf"
       },
       {
         "doc_id": "JAC-004136",
@@ -634,15 +634,6 @@
         "relative_path": "FWF/_unmatched/invoices/Combined Invoice 03-27 & 04-03-26 SprocketA.pdf"
       },
       {
-        "doc_id": "JAC-004156",
-        "filename": "Combined Invoice 03-13 & 03-26 Sprocket revised.pdf",
-        "received_date": "2026-03-27",
-        "invoice_number": "UT26-01035/39/80/82 & 623576/UP",
-        "invoice_date": "2026-03-24",
-        "invoice_amount": 321890.8,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Combined Invoice 03-13 & 03-26 Sprocket revised.pdf"
-      },
-      {
         "doc_id": "UNK-000112",
         "filename": "Combined Invoice 03-13 & 03-26 Sprocket revised.pdf",
         "received_date": "2026-03-27",
@@ -650,6 +641,15 @@
         "invoice_date": "2026-03-24",
         "invoice_amount": 321890.8,
         "relative_path": "FWF/_unmatched/invoices/Combined Invoice 03-13 & 03-26 Sprocket revised.pdf"
+      },
+      {
+        "doc_id": "JAC-004156",
+        "filename": "Combined Invoice 03-13 & 03-26 Sprocket revised.pdf",
+        "received_date": "2026-03-27",
+        "invoice_number": "UT26-01035/39/80/82 & 623576/UP",
+        "invoice_date": "2026-03-24",
+        "invoice_amount": 321890.8,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Combined Invoice 03-13 & 03-26 Sprocket revised.pdf"
       },
       {
         "doc_id": "JAC-004166",
@@ -674,18 +674,9 @@
   {
     "vendor_slug": "LIT_Services",
     "invoice_count": 6,
-    "total_amount": 293768.2,
+    "total_amount": 293768.19999999995,
     "unextracted_count": 0,
     "invoices": [
-      {
-        "doc_id": "LIT-000094",
-        "filename": "2026.541.pdf",
-        "received_date": "2026-04-06",
-        "invoice_number": "2026",
-        "invoice_date": null,
-        "invoice_amount": 47430.9,
-        "relative_path": "FWF/LIT_Services/invoices/2026.541.pdf"
-      },
       {
         "doc_id": "LIT-000093",
         "filename": "2026.540.pdf",
@@ -703,6 +694,15 @@
         "invoice_date": null,
         "invoice_amount": 77061.6,
         "relative_path": "FWF/LIT_Services/invoices/2026.538.pdf"
+      },
+      {
+        "doc_id": "LIT-000094",
+        "filename": "2026.541.pdf",
+        "received_date": "2026-04-06",
+        "invoice_number": "2026",
+        "invoice_date": null,
+        "invoice_amount": 47430.9,
+        "relative_path": "FWF/LIT_Services/invoices/2026.541.pdf"
       },
       {
         "doc_id": "LIT-000096",
@@ -821,15 +821,6 @@
         "relative_path": "FWF/NTXCOM/invoices/Invoice_1116_from_NTXCOM.pdf"
       },
       {
-        "doc_id": "NTX-000286",
-        "filename": "Invoice_1114_from_NTXCOM.pdf",
-        "received_date": "2025-12-02",
-        "invoice_number": "1114",
-        "invoice_date": "2025-11-15",
-        "invoice_amount": 7983.44,
-        "relative_path": "FWF/NTXCOM/invoices/Invoice_1114_from_NTXCOM.pdf"
-      },
-      {
         "doc_id": "NTX-000287",
         "filename": "Invoice_1113_from_NTXCOM.pdf",
         "received_date": "2025-12-02",
@@ -837,6 +828,15 @@
         "invoice_date": "2025-11-15",
         "invoice_amount": 8118.75,
         "relative_path": "FWF/NTXCOM/invoices/Invoice_1113_from_NTXCOM.pdf"
+      },
+      {
+        "doc_id": "NTX-000286",
+        "filename": "Invoice_1114_from_NTXCOM.pdf",
+        "received_date": "2025-12-02",
+        "invoice_number": "1114",
+        "invoice_date": "2025-11-15",
+        "invoice_amount": 7983.44,
+        "relative_path": "FWF/NTXCOM/invoices/Invoice_1114_from_NTXCOM.pdf"
       }
     ]
   },
@@ -900,15 +900,6 @@
     "unextracted_count": 1,
     "invoices": [
       {
-        "doc_id": "SRI-000131",
-        "filename": "Sprocket invoice #3.pdf",
-        "received_date": "2026-03-13",
-        "invoice_number": "3",
-        "invoice_date": "2026-02-27",
-        "invoice_amount": 497867.04,
-        "relative_path": "FWF/_unmatched/invoices/Sprocket invoice #3.pdf"
-      },
-      {
         "doc_id": "SRI-004174",
         "filename": "Sprocket invoice #3.pdf",
         "received_date": "2026-03-13",
@@ -916,6 +907,15 @@
         "invoice_date": null,
         "invoice_amount": null,
         "relative_path": "FWF/Sunrise_Telecom/invoices/Sprocket invoice #3.pdf"
+      },
+      {
+        "doc_id": "SRI-000131",
+        "filename": "Sprocket invoice #3.pdf",
+        "received_date": "2026-03-13",
+        "invoice_number": "3",
+        "invoice_date": "2026-02-27",
+        "invoice_amount": 497867.04,
+        "relative_path": "FWF/_unmatched/invoices/Sprocket invoice #3.pdf"
       }
     ]
   },
@@ -944,15 +944,6 @@
         "relative_path": "FWF/_unmatched/invoices/Sprocket Networks.pdf"
       },
       {
-        "doc_id": "T81-004211",
-        "filename": "Invoice_26-03821.pdf",
-        "received_date": "2026-03-02",
-        "invoice_number": "26-03821",
-        "invoice_date": null,
-        "invoice_amount": 89.7,
-        "relative_path": "FWF/Texas811/invoices/Invoice_26-03821.pdf"
-      },
-      {
         "doc_id": "UNK-000170",
         "filename": "Invoice_26-03821.pdf",
         "received_date": "2026-03-02",
@@ -962,13 +953,13 @@
         "relative_path": "FWF/_unmatched/invoices/Invoice_26-03821.pdf"
       },
       {
-        "doc_id": "T81-004244",
-        "filename": "Invoice_26-01874.pdf",
-        "received_date": "2026-02-03",
-        "invoice_number": "26-01874",
+        "doc_id": "T81-004211",
+        "filename": "Invoice_26-03821.pdf",
+        "received_date": "2026-03-02",
+        "invoice_number": "26-03821",
         "invoice_date": null,
-        "invoice_amount": 100.05,
-        "relative_path": "FWF/Texas811/invoices/Invoice_26-01874.pdf"
+        "invoice_amount": 89.7,
+        "relative_path": "FWF/Texas811/invoices/Invoice_26-03821.pdf"
       },
       {
         "doc_id": "UNK-000205",
@@ -980,13 +971,13 @@
         "relative_path": "FWF/_unmatched/invoices/Invoice_26-01874.pdf"
       },
       {
-        "doc_id": "T81-004271",
-        "filename": "Invoice_OCB26-01449.pdf",
-        "received_date": "2026-01-15",
-        "invoice_number": "OCB26-01449",
+        "doc_id": "T81-004244",
+        "filename": "Invoice_26-01874.pdf",
+        "received_date": "2026-02-03",
+        "invoice_number": "26-01874",
         "invoice_date": null,
-        "invoice_amount": 50.0,
-        "relative_path": "FWF/Texas811/invoices/Invoice_OCB26-01449.pdf"
+        "invoice_amount": 100.05,
+        "relative_path": "FWF/Texas811/invoices/Invoice_26-01874.pdf"
       },
       {
         "doc_id": "UNK-000233",
@@ -996,6 +987,15 @@
         "invoice_date": null,
         "invoice_amount": 50.0,
         "relative_path": "FWF/_unmatched/invoices/Invoice_OCB26-01449.pdf"
+      },
+      {
+        "doc_id": "T81-004271",
+        "filename": "Invoice_OCB26-01449.pdf",
+        "received_date": "2026-01-15",
+        "invoice_number": "OCB26-01449",
+        "invoice_date": null,
+        "invoice_amount": 50.0,
+        "relative_path": "FWF/Texas811/invoices/Invoice_OCB26-01449.pdf"
       },
       {
         "doc_id": "UNK-000260",
@@ -1016,15 +1016,6 @@
         "relative_path": "FWF/Texas811/invoices/Invoice_25-24618.pdf"
       },
       {
-        "doc_id": "UNK-000279",
-        "filename": "Statement_17457_1765554260361.pdf",
-        "received_date": "2025-12-12",
-        "invoice_number": "25",
-        "invoice_date": null,
-        "invoice_amount": 6008.75,
-        "relative_path": "FWF/_unmatched/invoices/Statement_17457_1765554260361.pdf"
-      },
-      {
         "doc_id": "T81-004311",
         "filename": "Statement_17457_1765554260361.pdf",
         "received_date": "2025-12-12",
@@ -1032,6 +1023,15 @@
         "invoice_date": null,
         "invoice_amount": 6008.75,
         "relative_path": "FWF/Texas811/invoices/Statement_17457_1765554260361.pdf"
+      },
+      {
+        "doc_id": "UNK-000279",
+        "filename": "Statement_17457_1765554260361.pdf",
+        "received_date": "2025-12-12",
+        "invoice_number": "25",
+        "invoice_date": null,
+        "invoice_amount": 6008.75,
+        "relative_path": "FWF/_unmatched/invoices/Statement_17457_1765554260361.pdf"
       },
       {
         "doc_id": "UNK-000289",
@@ -1051,15 +1051,6 @@
     "unextracted_count": 7,
     "invoices": [
       {
-        "doc_id": "UNK-000078",
-        "filename": "BillFacePage (63).pdf",
-        "received_date": "2026-04-14",
-        "invoice_number": null,
-        "invoice_date": "2026-03-30",
-        "invoice_amount": 2055.0,
-        "relative_path": "FWF/_unmatched/invoices/BillFacePage (63).pdf"
-      },
-      {
         "doc_id": "UNK-000079",
         "filename": "BillFacePage (64).pdf",
         "received_date": "2026-04-14",
@@ -1076,15 +1067,6 @@
         "invoice_date": "2026-03-30",
         "invoice_amount": 2055.0,
         "relative_path": "FWF/_unmatched/invoices/BillFacePage (61).pdf"
-      },
-      {
-        "doc_id": "UNK-000077",
-        "filename": "BillFacePage (62).pdf",
-        "received_date": "2026-04-14",
-        "invoice_number": null,
-        "invoice_date": "2026-03-30",
-        "invoice_amount": 2055.0,
-        "relative_path": "FWF/_unmatched/invoices/BillFacePage (62).pdf"
       },
       {
         "doc_id": "UPR-004130",
@@ -1105,13 +1087,13 @@
         "relative_path": "FWF/UPRR/invoices/BillFacePage (65).pdf"
       },
       {
-        "doc_id": "UNK-000075",
-        "filename": "BillFacePage (60).pdf",
+        "doc_id": "UPR-004128",
+        "filename": "BillFacePage (64).pdf",
         "received_date": "2026-04-14",
         "invoice_number": null,
-        "invoice_date": "2026-03-26",
-        "invoice_amount": 2055.0,
-        "relative_path": "FWF/_unmatched/invoices/BillFacePage (60).pdf"
+        "invoice_date": null,
+        "invoice_amount": null,
+        "relative_path": "FWF/UPRR/invoices/BillFacePage (64).pdf"
       },
       {
         "doc_id": "UPR-004127",
@@ -1123,13 +1105,13 @@
         "relative_path": "FWF/UPRR/invoices/BillFacePage (63).pdf"
       },
       {
-        "doc_id": "UPR-004128",
-        "filename": "BillFacePage (64).pdf",
+        "doc_id": "UPR-004126",
+        "filename": "BillFacePage (62).pdf",
         "received_date": "2026-04-14",
         "invoice_number": null,
         "invoice_date": null,
         "invoice_amount": null,
-        "relative_path": "FWF/UPRR/invoices/BillFacePage (64).pdf"
+        "relative_path": "FWF/UPRR/invoices/BillFacePage (62).pdf"
       },
       {
         "doc_id": "UPR-004125",
@@ -1141,15 +1123,6 @@
         "relative_path": "FWF/UPRR/invoices/BillFacePage (61).pdf"
       },
       {
-        "doc_id": "UPR-004126",
-        "filename": "BillFacePage (62).pdf",
-        "received_date": "2026-04-14",
-        "invoice_number": null,
-        "invoice_date": null,
-        "invoice_amount": null,
-        "relative_path": "FWF/UPRR/invoices/BillFacePage (62).pdf"
-      },
-      {
         "doc_id": "UPR-004124",
         "filename": "BillFacePage (60).pdf",
         "received_date": "2026-04-14",
@@ -1159,6 +1132,24 @@
         "relative_path": "FWF/UPRR/invoices/BillFacePage (60).pdf"
       },
       {
+        "doc_id": "UNK-000078",
+        "filename": "BillFacePage (63).pdf",
+        "received_date": "2026-04-14",
+        "invoice_number": null,
+        "invoice_date": "2026-03-30",
+        "invoice_amount": 2055.0,
+        "relative_path": "FWF/_unmatched/invoices/BillFacePage (63).pdf"
+      },
+      {
+        "doc_id": "UNK-000075",
+        "filename": "BillFacePage (60).pdf",
+        "received_date": "2026-04-14",
+        "invoice_number": null,
+        "invoice_date": "2026-03-26",
+        "invoice_amount": 2055.0,
+        "relative_path": "FWF/_unmatched/invoices/BillFacePage (60).pdf"
+      },
+      {
         "doc_id": "UNK-000080",
         "filename": "BillFacePage (65).pdf",
         "received_date": "2026-04-14",
@@ -1166,6 +1157,15 @@
         "invoice_date": "2026-04-06",
         "invoice_amount": 2055.0,
         "relative_path": "FWF/_unmatched/invoices/BillFacePage (65).pdf"
+      },
+      {
+        "doc_id": "UNK-000077",
+        "filename": "BillFacePage (62).pdf",
+        "received_date": "2026-04-14",
+        "invoice_number": null,
+        "invoice_date": "2026-03-30",
+        "invoice_amount": 2055.0,
+        "relative_path": "FWF/_unmatched/invoices/BillFacePage (62).pdf"
       },
       {
         "doc_id": "UNK-000081",

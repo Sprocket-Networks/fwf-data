@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-04-29T17:00:08.484967+00:00",
+  "last_run_at": "2026-04-29T17:08:03.953174+00:00",
   "status": "WARNING",
   "tabs_written": [
     "phases",
@@ -19,6 +19,6 @@
     "spend_NTXCOM"
   ],
   "source_sheet_id": "19U9tTGngZJH9PlRtGt0J4fRTdHiIj8RTYukwlMir_Pk",
-  "pipeline_version": "d61c1d0",
+  "pipeline_version": "2dc8598",
   "last_failure_at": "2026-04-28T17:00:04.848330+00:00"
 }
