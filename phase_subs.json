@@ -444,8 +444,8 @@
     "phase_id": "P06",
     "sub_id": "P06-CP01-BACKBONE",
     "planned_ft": 12828,
-    "completed_ft": 3556,
-    "pct_complete": 0.2772,
+    "completed_ft": 6143,
+    "pct_complete": 0.4789,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
@@ -453,37 +453,199 @@
     "phase_id": "P06",
     "sub_id": "P06-CP01-L1",
     "planned_ft": 1429,
-    "completed_ft": 829,
-    "pct_complete": 0.5801,
-    "status": "in_progress",
+    "completed_ft": 1429,
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P06",
-    "sub_id": "row-4",
-    "planned_ft": 100,
-    "completed_ft": 50,
-    "pct_complete": 0.5,
-    "status": "in_progress",
-    "inspector": null
+    "sub_id": "P06-CP02-L4",
+    "planned_ft": 4660,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P06",
-    "sub_id": "row-5",
-    "planned_ft": 100,
-    "completed_ft": 50,
-    "pct_complete": 0.5,
-    "status": "in_progress",
-    "inspector": null
+    "sub_id": "ENVIRO- SOUTHSIDE-DROPFF",
+    "planned_ft": 1492,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P06",
-    "sub_id": "row-6",
-    "planned_ft": 100,
-    "completed_ft": 50,
-    "pct_complete": 0.5,
-    "status": "in_progress",
+    "sub_id": "FIRE-STATION-42",
+    "planned_ft": 2533,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "PARD-HIGHLAND HILLS-CC",
+    "planned_ft": 3503,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP02-BACKBONE",
+    "planned_ft": 14571,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP02-L3",
+    "planned_ft": 2671,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP02-L1",
+    "planned_ft": 1803,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP02-L2",
+    "planned_ft": 459,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "P06-CP02-L7-PD",
+    "planned_ft": 2731,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "FIRE-STATION-28",
+    "planned_ft": 3456,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "Water-Tank",
+    "planned_ft": 6049,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P06",
+    "sub_id": "row-15",
+    "planned_ft": 50,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
     "inspector": null
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP01-L3",
+    "planned_ft": 626,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP02-L2",
+    "planned_ft": 12735,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP02-L1",
+    "planned_ft": 7075,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP01-L2",
+    "planned_ft": 6532,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP01-L4",
+    "planned_ft": 300,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "FIRE-STATION-#39",
+    "planned_ft": 7742,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP01-BACKBONE",
+    "planned_ft": 19690,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP01-L1",
+    "planned_ft": 539,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P07",
+    "sub_id": "P07-CP03-BACKBONE",
+    "planned_ft": 11439,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P09",
@@ -516,8 +678,8 @@
     "phase_id": "P09",
     "sub_id": "P09-CP03-BACKBONE",
     "planned_ft": 15570,
-    "completed_ft": 13649,
-    "pct_complete": 0.8766,
+    "completed_ft": 13999,
+    "pct_complete": 0.8991,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
@@ -551,17 +713,17 @@
   {
     "phase_id": "P09",
     "sub_id": "P09-CP01-L1",
-    "planned_ft": 6705,
-    "completed_ft": 5763,
-    "pct_complete": 0.8595,
-    "status": "in_progress",
+    "planned_ft": 6333,
+    "completed_ft": 6333,
+    "pct_complete": 1.0,
+    "status": "complete",
     "inspector": "ANGEL SOTO"
   },
   {
     "phase_id": "P09",
     "sub_id": "P09-CP02-L1",
-    "planned_ft": 9872,
-    "completed_ft": 9872,
+    "planned_ft": 9933,
+    "completed_ft": 9933,
     "pct_complete": 1.0,
     "status": "complete",
     "inspector": "ANGEL SOTO"
@@ -588,9 +750,9 @@
     "phase_id": "P10",
     "sub_id": "P10-CP02-L3",
     "planned_ft": 4763,
-    "completed_ft": 0,
-    "pct_complete": 0.0,
-    "status": "not_started",
+    "completed_ft": 2785,
+    "pct_complete": 0.5847,
+    "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
   {
@@ -624,6 +786,15 @@
     "phase_id": "P10",
     "sub_id": "P10-CP02-L5",
     "planned_ft": 52,
+    "completed_ft": 0,
+    "pct_complete": 0.0,
+    "status": "not_started",
+    "inspector": "ANGEL SOTO"
+  },
+  {
+    "phase_id": "P10",
+    "sub_id": "P10 - CP01 - BACKBONE",
+    "planned_ft": 23047,
     "completed_ft": 0,
     "pct_complete": 0.0,
     "status": "not_started",

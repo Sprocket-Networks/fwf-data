@@ -50,6 +50,16 @@
     "latest_bill_date": "2026-02-03"
   },
   {
+    "vendor": "Eagle 1 Resources",
+    "category": "engineering",
+    "tab_suffix": "Eagle1",
+    "bills_count": 5,
+    "total_billed": 7500.0,
+    "total_paid": 0.0,
+    "outstanding": 7500.0,
+    "latest_bill_date": "2026-04-28"
+  },
+  {
     "vendor": "Brandon Henline / OSP And Design Consultants LLC",
     "category": "management",
     "tab_suffix": "OSP",
@@ -73,10 +83,10 @@
     "vendor": "NTXCOM, LLC",
     "category": "engineering",
     "tab_suffix": "NTXCOM",
-    "bills_count": 15,
-    "total_billed": 198246.88,
+    "bills_count": 16,
+    "total_billed": 214511.44,
     "total_paid": 183034.64,
-    "outstanding": 0.0,
-    "latest_bill_date": "2026-04-01"
+    "outstanding": 16264.56,
+    "latest_bill_date": "2026-04-29"
   }
 ]

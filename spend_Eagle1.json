@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "bill_id": "3037",
+    "date": "2026-04-28",
+    "doc_num": "47",
+    "total_amt": 1500.0,
+    "balance": 1500.0,
+    "memo": null,
+    "date_paid": null
+  },
+  {
+    "bill_id": "3036",
+    "date": "2026-04-28",
+    "doc_num": "46",
+    "total_amt": 1500.0,
+    "balance": 1500.0,
+    "memo": null,
+    "date_paid": null
+  },
+  {
+    "bill_id": "3035",
+    "date": "2026-04-27",
+    "doc_num": "45",
+    "total_amt": 1500.0,
+    "balance": 1500.0,
+    "memo": null,
+    "date_paid": null
+  },
+  {
+    "bill_id": "3034",
+    "date": "2026-04-27",
+    "doc_num": "44",
+    "total_amt": 1500.0,
+    "balance": 1500.0,
+    "memo": null,
+    "date_paid": null
+  },
+  {
+    "bill_id": "3033",
+    "date": "2026-04-27",
+    "doc_num": "43",
+    "total_amt": 1500.0,
+    "balance": 1500.0,
+    "memo": null,
+    "date_paid": null
+  }
+]
