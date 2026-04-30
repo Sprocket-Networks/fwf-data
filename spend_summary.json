@@ -13,11 +13,11 @@
     "vendor": "Jacqueline Construction",
     "category": "construction",
     "tab_suffix": "Jacqueline",
-    "bills_count": 5,
-    "total_billed": 1229611.3,
+    "bills_count": 6,
+    "total_billed": 1372705.9,
     "total_paid": 1229611.3,
-    "outstanding": 0.0,
-    "latest_bill_date": "2026-04-17"
+    "outstanding": 143094.6,
+    "latest_bill_date": "2026-04-24"
   },
   {
     "vendor": "Hexatronic US Inc",
