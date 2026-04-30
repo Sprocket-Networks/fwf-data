@@ -1,12 +1,39 @@
 [
   {
+    "bill_id": "3059",
+    "date": "2026-04-28",
+    "doc_num": "032377",
+    "total_amt": 33387.57,
+    "balance": 33387.57,
+    "memo": "60 EA delivered 3/30/26 to Jacqueline",
+    "date_paid": null
+  },
+  {
+    "bill_id": "3062",
+    "date": "2026-04-27",
+    "doc_num": "032231",
+    "total_amt": 33439.74,
+    "balance": 33439.74,
+    "memo": "60 EA to Sunrise 4/27/26",
+    "date_paid": null
+  },
+  {
+    "bill_id": "3061",
+    "date": "2026-04-26",
+    "doc_num": "031972",
+    "total_amt": 33387.57,
+    "balance": 33387.57,
+    "memo": "60 EA delivered 4/6/26 to GAC 4/24/26",
+    "date_paid": null
+  },
+  {
     "bill_id": "2902",
     "date": "2026-04-07",
     "doc_num": "030272",
     "total_amt": 33387.57,
-    "balance": 33387.57,
-    "memo": "60 EA delivered 2/7/2026 to Sunrise\n60 EA delivered 2/11/2026 to Sunrise\n60 EA delivered 3/12/2026 to Jacquline\n60 EA delivered 3/30/26 to Jacqueline\n60 EA delivered 4/6/26 to Sunrise",
-    "date_paid": null
+    "balance": 0.0,
+    "memo": "60 EA delivered 4/6/26 to Sunrise",
+    "date_paid": "2026-04-30"
   },
   {
     "bill_id": "2811",
