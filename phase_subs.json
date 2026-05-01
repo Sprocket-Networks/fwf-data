@@ -444,8 +444,8 @@
     "phase_id": "P06",
     "sub_id": "P06-CP01-BACKBONE",
     "planned_ft": 12828,
-    "completed_ft": 6288,
-    "pct_complete": 0.4902,
+    "completed_ft": 6905,
+    "pct_complete": 0.5383,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
@@ -777,8 +777,8 @@
     "phase_id": "P10",
     "sub_id": "P10-CP02 BACKBONE",
     "planned_ft": 8871,
-    "completed_ft": 299,
-    "pct_complete": 0.0337,
+    "completed_ft": 670,
+    "pct_complete": 0.0755,
     "status": "in_progress",
     "inspector": "ANGEL SOTO"
   },
