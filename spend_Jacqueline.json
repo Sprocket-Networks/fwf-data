@@ -4,9 +4,9 @@
     "date": "2026-04-24",
     "doc_num": "Multiple",
     "total_amt": 143094.6,
-    "balance": 143094.6,
+    "balance": 0.0,
     "memo": null,
-    "date_paid": null
+    "date_paid": "2026-05-01"
   },
   {
     "bill_id": "2930",
