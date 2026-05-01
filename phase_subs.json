@@ -408,8 +408,8 @@
     "phase_id": "P05",
     "sub_id": "BACKBONE",
     "planned_ft": 8992,
-    "completed_ft": 1588,
-    "pct_complete": 0.1766,
+    "completed_ft": 4828,
+    "pct_complete": 0.5369,
     "status": "in_progress",
     "inspector": null
   },
