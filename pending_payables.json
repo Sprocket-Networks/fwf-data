@@ -50,15 +50,6 @@
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02074-03 P06-CP01-Backbone.pdf"
       },
       {
-        "doc_id": "JAC-008177",
-        "filename": "Invoice# UT26-02045-01 P10-CP02-L3-Library NW 6228 Crystal Lake.pdf",
-        "received_date": "2026-05-01",
-        "invoice_number": "UT26-02045-01",
-        "invoice_date": "2026-05-01",
-        "invoice_amount": 61753.56,
-        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02045-01 P10-CP02-L3-Library NW 6228 Crystal Lake.pdf"
-      },
-      {
         "doc_id": "JAC-008163",
         "filename": "Invoice# UT26-02048-01 P10-CP02-BACKBONE 5333 LEA CREST.pdf",
         "received_date": "2026-05-01",
@@ -66,6 +57,15 @@
         "invoice_date": "2026-05-01",
         "invoice_amount": 9728.4,
         "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02048-01 P10-CP02-BACKBONE 5333 LEA CREST.pdf"
+      },
+      {
+        "doc_id": "JAC-008177",
+        "filename": "Invoice# UT26-02045-01 P10-CP02-L3-Library NW 6228 Crystal Lake.pdf",
+        "received_date": "2026-05-01",
+        "invoice_number": "UT26-02045-01",
+        "invoice_date": "2026-05-01",
+        "invoice_amount": 61753.56,
+        "relative_path": "FWF/Jacqueline_Construction/invoices/Invoice# UT26-02045-01 P10-CP02-L3-Library NW 6228 Crystal Lake.pdf"
       },
       {
         "doc_id": "UNK-000009",
@@ -84,15 +84,6 @@
         "invoice_date": "2026-04-24",
         "invoice_amount": 55989.12,
         "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-02074-02 P06-CP01-Backbone.pdf"
-      },
-      {
-        "doc_id": "UNK-000016",
-        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
-        "received_date": "2026-04-24",
-        "invoice_number": "UT26-01035-04",
-        "invoice_date": "2026-04-24",
-        "invoice_amount": 14520.0,
-        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
       },
       {
         "doc_id": "UNK-000013",
@@ -120,6 +111,15 @@
         "invoice_date": "2026-04-24",
         "invoice_amount": 59662.68,
         "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01007-02 Police Mounted Vegas.pdf"
+      },
+      {
+        "doc_id": "UNK-000016",
+        "filename": "Invoice# UT26-01035-04 8901 Jacksboro.pdf",
+        "received_date": "2026-04-24",
+        "invoice_number": "UT26-01035-04",
+        "invoice_date": "2026-04-24",
+        "invoice_amount": 14520.0,
+        "relative_path": "FWF/_unmatched/invoices/Invoice# UT26-01035-04 8901 Jacksboro.pdf"
       },
       {
         "doc_id": "UNK-000049",
